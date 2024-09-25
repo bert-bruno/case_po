@@ -1,4 +1,5 @@
 *.xlsx
 *.pdf
 __pycache__
-*.py
+main.py
+*.ipynb

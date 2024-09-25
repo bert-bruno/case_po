@@ -63,3 +63,21 @@ class EDA:
         null_values = null_values.T.rename(columns={0: 'null_values'}).copy() # renomeia a coluna de valores nulos.
         # --- Output --- #
         return null_values
+    
+    @classmethod
+    def check_for_duplicated_values(cls, dataframe: pd.DataFrame) -> int:
+        ''' Verifica se há valores duplicados no dataframe.
+            - Retorna a quantidade de valores duplicados.
+        '''
+        # --- Body --- #
+        duplicated_boolean_values = dataframe.duplicated().values # coleta os valores duplicados e armazena como um array.
+        # --- #
+        counter_duplicated_values = 0 # contador para armazenar a quantidade de valores duplicados.
+        # --- #
+        for boolean_value in duplicated_boolean_values:
+            if boolean_value:
+                counter_duplicated_values += 1
+            elif not boolean_value:
+                continue
+        # --- Output --- #
+        return counter_duplicated_values

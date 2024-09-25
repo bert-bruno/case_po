@@ -74,10 +74,10 @@ class EDA:
         # --- #
         counter_duplicated_values = 0 # contador para armazenar a quantidade de valores duplicados.
         # --- #
-        for boolean_value in duplicated_boolean_values:
+        for boolean_value in duplicated_boolean_values: # itera sobre o array booleano de valores duplicados.
             if boolean_value:
-                counter_duplicated_values += 1
+                counter_duplicated_values += 1 # Se o valor for True, incrementa o contador.
             elif not boolean_value:
-                continue
+                continue # Se o valor for False, passa para a próxima iteração.
         # --- Output --- #
         return counter_duplicated_values

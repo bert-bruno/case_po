@@ -66,8 +66,8 @@ class EDA:
     
     @classmethod
     def check_for_duplicated_values(cls, dataframe: pd.DataFrame) -> int:
-        ''' Verifica se há valores duplicados no dataframe.
-            - Retorna a quantidade de valores duplicados.
+        ''' Verifica se há linhas duplicadas no dataframe.
+            - Retorna a quantidade de linhas duplicadas.
         '''
         # --- Body --- #
         duplicated_boolean_values = dataframe.duplicated().values # coleta os valores duplicados e armazena como um array.

@@ -4,7 +4,6 @@ from pathlib import Path
 import pandas as pd
 
 # --- Classe para Análise Exploratória --- #
-
 class EDA:
 
     @property
@@ -47,4 +46,20 @@ class EDA:
             # -- #
             dataframes.append(df)
         # --- Output --- #
-        return dataframes 
+        return dataframes
+    
+    @classmethod
+    def check_for_null_values(cls, dataframe: pd.DataFrame) -> pd.DataFrame:
+        ''' Verifica se há valores nulos no dataframe.
+            - Retorna um dataframe com a quantidade de valores nulos por coluna.
+        '''
+        # --- Body --- #
+        columns = dataframe.columns # coleta as colunas do dataframe.
+        null_values = pd.DataFrame() # dataframe para armazenar os valores nulos.
+        # --- #
+        for column in columns: # itera sobre as colunas, computa a quantidade de valores nulos em cada uma delas e armazena no dataframe de valores nulos.
+            null_values[column] = [dataframe[column].isnull().sum()] # armazena a quantidade de valores nulos em cada coluna.
+        # --- #
+        null_values = null_values.T.rename(columns={0: 'null_values'}).copy() # renomeia a coluna de valores nulos.
+        # --- Output --- #
+        return null_values

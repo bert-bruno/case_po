@@ -1,0 +1,8704 @@
+{
+    "Quantidade de caixas distintas": 1072,
+    "Quantidade total de peças": 26488,
+    "Quantidade de itens distintos": 1882,
+    "Peças e Itens por caixa": [
+        {
+            "Caixa": 2079,
+            "Peças": 18,
+            "Itens": [
+                "sku-0001"
+            ]
+        },
+        {
+            "Caixa": 2080,
+            "Peças": 44,
+            "Itens": [
+                "sku-0001",
+                "sku-0002",
+                "sku-0003",
+                "sku-0004",
+                "sku-0005"
+            ]
+        },
+        {
+            "Caixa": 2081,
+            "Peças": 20,
+            "Itens": [
+                "sku-0006"
+            ]
+        },
+        {
+            "Caixa": 2082,
+            "Peças": 34,
+            "Itens": [
+                "sku-0007",
+                "sku-0008"
+            ]
+        },
+        {
+            "Caixa": 2083,
+            "Peças": 17,
+            "Itens": [
+                "sku-0009",
+                "sku-0010"
+            ]
+        },
+        {
+            "Caixa": 2084,
+            "Peças": 40,
+            "Itens": [
+                "sku-0011",
+                "sku-0012",
+                "sku-0013",
+                "sku-0014"
+            ]
+        },
+        {
+            "Caixa": 2085,
+            "Peças": 23,
+            "Itens": [
+                "sku-0015",
+                "sku-0016",
+                "sku-0017"
+            ]
+        },
+        {
+            "Caixa": 2086,
+            "Peças": 30,
+            "Itens": [
+                "sku-0018",
+                "sku-0019"
+            ]
+        },
+        {
+            "Caixa": 2087,
+            "Peças": 28,
+            "Itens": [
+                "sku-0020",
+                "sku-0021"
+            ]
+        },
+        {
+            "Caixa": 2088,
+            "Peças": 24,
+            "Itens": [
+                "sku-0022",
+                "sku-0023"
+            ]
+        },
+        {
+            "Caixa": 2089,
+            "Peças": 18,
+            "Itens": [
+                "sku-0024"
+            ]
+        },
+        {
+            "Caixa": 2090,
+            "Peças": 25,
+            "Itens": [
+                "sku-0025",
+                "sku-0026"
+            ]
+        },
+        {
+            "Caixa": 2091,
+            "Peças": 46,
+            "Itens": [
+                "sku-0027",
+                "sku-0028",
+                "sku-0029",
+                "sku-0030"
+            ]
+        },
+        {
+            "Caixa": 2092,
+            "Peças": 8,
+            "Itens": [
+                "sku-0031"
+            ]
+        },
+        {
+            "Caixa": 2093,
+            "Peças": 37,
+            "Itens": [
+                "sku-0032",
+                "sku-0033",
+                "sku-0034",
+                "sku-0035"
+            ]
+        },
+        {
+            "Caixa": 2094,
+            "Peças": 18,
+            "Itens": [
+                "sku-0036",
+                "sku-0037"
+            ]
+        },
+        {
+            "Caixa": 2095,
+            "Peças": 50,
+            "Itens": [
+                "sku-0038",
+                "sku-0039",
+                "sku-0040",
+                "sku-0041"
+            ]
+        },
+        {
+            "Caixa": 2096,
+            "Peças": 49,
+            "Itens": [
+                "sku-0042",
+                "sku-0043",
+                "sku-0044",
+                "sku-0045"
+            ]
+        },
+        {
+            "Caixa": 2097,
+            "Peças": 33,
+            "Itens": [
+                "sku-0046",
+                "sku-0047",
+                "sku-0048",
+                "sku-0049"
+            ]
+        },
+        {
+            "Caixa": 2098,
+            "Peças": 36,
+            "Itens": [
+                "sku-0050",
+                "sku-0051"
+            ]
+        },
+        {
+            "Caixa": 2099,
+            "Peças": 8,
+            "Itens": [
+                "sku-0052"
+            ]
+        },
+        {
+            "Caixa": 2100,
+            "Peças": 36,
+            "Itens": [
+                "sku-0053",
+                "sku-0054",
+                "sku-0055"
+            ]
+        },
+        {
+            "Caixa": 2101,
+            "Peças": 43,
+            "Itens": [
+                "sku-0056",
+                "sku-0057",
+                "sku-0058",
+                "sku-0059"
+            ]
+        },
+        {
+            "Caixa": 2102,
+            "Peças": 46,
+            "Itens": [
+                "sku-0060",
+                "sku-0061",
+                "sku-0062"
+            ]
+        },
+        {
+            "Caixa": 2103,
+            "Peças": 25,
+            "Itens": [
+                "sku-0063",
+                "sku-0064"
+            ]
+        },
+        {
+            "Caixa": 2104,
+            "Peças": 53,
+            "Itens": [
+                "sku-0065",
+                "sku-0066",
+                "sku-0067",
+                "sku-0068"
+            ]
+        },
+        {
+            "Caixa": 2105,
+            "Peças": 15,
+            "Itens": [
+                "sku-0069"
+            ]
+        },
+        {
+            "Caixa": 2106,
+            "Peças": 22,
+            "Itens": [
+                "sku-0070",
+                "sku-0071"
+            ]
+        },
+        {
+            "Caixa": 2107,
+            "Peças": 32,
+            "Itens": [
+                "sku-0072",
+                "sku-0073"
+            ]
+        },
+        {
+            "Caixa": 2108,
+            "Peças": 42,
+            "Itens": [
+                "sku-0074",
+                "sku-0075",
+                "sku-0076"
+            ]
+        },
+        {
+            "Caixa": 2109,
+            "Peças": 12,
+            "Itens": [
+                "sku-0077"
+            ]
+        },
+        {
+            "Caixa": 2110,
+            "Peças": 41,
+            "Itens": [
+                "sku-0078",
+                "sku-0079"
+            ]
+        },
+        {
+            "Caixa": 2111,
+            "Peças": 45,
+            "Itens": [
+                "sku-0080",
+                "sku-0081",
+                "sku-0082"
+            ]
+        },
+        {
+            "Caixa": 2112,
+            "Peças": 58,
+            "Itens": [
+                "sku-0083",
+                "sku-0084",
+                "sku-0085",
+                "sku-0086"
+            ]
+        },
+        {
+            "Caixa": 2113,
+            "Peças": 38,
+            "Itens": [
+                "sku-0087",
+                "sku-0088"
+            ]
+        },
+        {
+            "Caixa": 2114,
+            "Peças": 26,
+            "Itens": [
+                "sku-0089",
+                "sku-0090",
+                "sku-0091"
+            ]
+        },
+        {
+            "Caixa": 2115,
+            "Peças": 65,
+            "Itens": [
+                "sku-0092",
+                "sku-0093",
+                "sku-0094",
+                "sku-0095",
+                "sku-0096"
+            ]
+        },
+        {
+            "Caixa": 2116,
+            "Peças": 29,
+            "Itens": [
+                "sku-0097",
+                "sku-0098",
+                "sku-0099"
+            ]
+        },
+        {
+            "Caixa": 2117,
+            "Peças": 43,
+            "Itens": [
+                "sku-0100",
+                "sku-0101",
+                "sku-0102"
+            ]
+        },
+        {
+            "Caixa": 2118,
+            "Peças": 6,
+            "Itens": [
+                "sku-0103"
+            ]
+        },
+        {
+            "Caixa": 2119,
+            "Peças": 18,
+            "Itens": [
+                "sku-0104",
+                "sku-0105"
+            ]
+        },
+        {
+            "Caixa": 2120,
+            "Peças": 21,
+            "Itens": [
+                "sku-0106",
+                "sku-0107",
+                "sku-0108"
+            ]
+        },
+        {
+            "Caixa": 2121,
+            "Peças": 19,
+            "Itens": [
+                "sku-0109"
+            ]
+        },
+        {
+            "Caixa": 2122,
+            "Peças": 32,
+            "Itens": [
+                "sku-0109",
+                "sku-0110",
+                "sku-0111"
+            ]
+        },
+        {
+            "Caixa": 2123,
+            "Peças": 78,
+            "Itens": [
+                "sku-0112",
+                "sku-0113",
+                "sku-0114",
+                "sku-0115",
+                "sku-0116",
+                "sku-0117"
+            ]
+        },
+        {
+            "Caixa": 2124,
+            "Peças": 43,
+            "Itens": [
+                "sku-0118",
+                "sku-0119",
+                "sku-0120",
+                "sku-0121"
+            ]
+        },
+        {
+            "Caixa": 2125,
+            "Peças": 12,
+            "Itens": [
+                "sku-0122"
+            ]
+        },
+        {
+            "Caixa": 2126,
+            "Peças": 18,
+            "Itens": [
+                "sku-0123",
+                "sku-0124"
+            ]
+        },
+        {
+            "Caixa": 2127,
+            "Peças": 31,
+            "Itens": [
+                "sku-0125",
+                "sku-0126",
+                "sku-0127",
+                "sku-0128"
+            ]
+        },
+        {
+            "Caixa": 2128,
+            "Peças": 78,
+            "Itens": [
+                "sku-0129",
+                "sku-0130",
+                "sku-0131",
+                "sku-0132",
+                "sku-0133",
+                "sku-0134",
+                "sku-0135"
+            ]
+        },
+        {
+            "Caixa": 2129,
+            "Peças": 69,
+            "Itens": [
+                "sku-0136",
+                "sku-0137",
+                "sku-0138",
+                "sku-0139",
+                "sku-0140",
+                "sku-0141"
+            ]
+        },
+        {
+            "Caixa": 2130,
+            "Peças": 53,
+            "Itens": [
+                "sku-0142",
+                "sku-0143",
+                "sku-0144"
+            ]
+        },
+        {
+            "Caixa": 2131,
+            "Peças": 63,
+            "Itens": [
+                "sku-0145",
+                "sku-0146",
+                "sku-0147",
+                "sku-0148"
+            ]
+        },
+        {
+            "Caixa": 2132,
+            "Peças": 40,
+            "Itens": [
+                "sku-0149",
+                "sku-0150",
+                "sku-0151"
+            ]
+        },
+        {
+            "Caixa": 2133,
+            "Peças": 24,
+            "Itens": [
+                "sku-0152",
+                "sku-0153"
+            ]
+        },
+        {
+            "Caixa": 2134,
+            "Peças": 30,
+            "Itens": [
+                "sku-0154",
+                "sku-0155",
+                "sku-0156"
+            ]
+        },
+        {
+            "Caixa": 2135,
+            "Peças": 38,
+            "Itens": [
+                "sku-0157",
+                "sku-0158",
+                "sku-0156",
+                "sku-0159",
+                "sku-0160"
+            ]
+        },
+        {
+            "Caixa": 2136,
+            "Peças": 11,
+            "Itens": [
+                "sku-0161"
+            ]
+        },
+        {
+            "Caixa": 2137,
+            "Peças": 14,
+            "Itens": [
+                "sku-0162"
+            ]
+        },
+        {
+            "Caixa": 2138,
+            "Peças": 30,
+            "Itens": [
+                "sku-0163",
+                "sku-0164",
+                "sku-0165"
+            ]
+        },
+        {
+            "Caixa": 2139,
+            "Peças": 28,
+            "Itens": [
+                "sku-0046",
+                "sku-0166"
+            ]
+        },
+        {
+            "Caixa": 2140,
+            "Peças": 8,
+            "Itens": [
+                "sku-0167"
+            ]
+        },
+        {
+            "Caixa": 2141,
+            "Peças": 29,
+            "Itens": [
+                "sku-0168",
+                "sku-0169",
+                "sku-0170",
+                "sku-0171"
+            ]
+        },
+        {
+            "Caixa": 2142,
+            "Peças": 20,
+            "Itens": [
+                "sku-0172",
+                "sku-0173"
+            ]
+        },
+        {
+            "Caixa": 2143,
+            "Peças": 35,
+            "Itens": [
+                "sku-0174",
+                "sku-0175",
+                "sku-0176",
+                "sku-0177"
+            ]
+        },
+        {
+            "Caixa": 2144,
+            "Peças": 43,
+            "Itens": [
+                "sku-0178",
+                "sku-0179",
+                "sku-0180"
+            ]
+        },
+        {
+            "Caixa": 2145,
+            "Peças": 26,
+            "Itens": [
+                "sku-0181",
+                "sku-0182"
+            ]
+        },
+        {
+            "Caixa": 2146,
+            "Peças": 29,
+            "Itens": [
+                "sku-0183",
+                "sku-0184",
+                "sku-0185"
+            ]
+        },
+        {
+            "Caixa": 2147,
+            "Peças": 33,
+            "Itens": [
+                "sku-0186",
+                "sku-0187",
+                "sku-0188"
+            ]
+        },
+        {
+            "Caixa": 2148,
+            "Peças": 5,
+            "Itens": [
+                "sku-0189"
+            ]
+        },
+        {
+            "Caixa": 2149,
+            "Peças": 5,
+            "Itens": [
+                "sku-0189"
+            ]
+        },
+        {
+            "Caixa": 2150,
+            "Peças": 5,
+            "Itens": [
+                "sku-0189"
+            ]
+        },
+        {
+            "Caixa": 2151,
+            "Peças": 13,
+            "Itens": [
+                "sku-0190",
+                "sku-0189"
+            ]
+        },
+        {
+            "Caixa": 2152,
+            "Peças": 13,
+            "Itens": [
+                "sku-0190",
+                "sku-0189"
+            ]
+        },
+        {
+            "Caixa": 2153,
+            "Peças": 13,
+            "Itens": [
+                "sku-0191",
+                "sku-0192"
+            ]
+        },
+        {
+            "Caixa": 2154,
+            "Peças": 31,
+            "Itens": [
+                "sku-0193",
+                "sku-0011",
+                "sku-0194"
+            ]
+        },
+        {
+            "Caixa": 2155,
+            "Peças": 36,
+            "Itens": [
+                "sku-0195",
+                "sku-0196"
+            ]
+        },
+        {
+            "Caixa": 2156,
+            "Peças": 14,
+            "Itens": [
+                "sku-0197"
+            ]
+        },
+        {
+            "Caixa": 2157,
+            "Peças": 26,
+            "Itens": [
+                "sku-0198",
+                "sku-0199",
+                "sku-0200"
+            ]
+        },
+        {
+            "Caixa": 2158,
+            "Peças": 47,
+            "Itens": [
+                "sku-0201",
+                "sku-0202",
+                "sku-0203",
+                "sku-0204"
+            ]
+        },
+        {
+            "Caixa": 2159,
+            "Peças": 20,
+            "Itens": [
+                "sku-0205",
+                "sku-0206"
+            ]
+        },
+        {
+            "Caixa": 2160,
+            "Peças": 7,
+            "Itens": [
+                "sku-0207"
+            ]
+        },
+        {
+            "Caixa": 2161,
+            "Peças": 7,
+            "Itens": [
+                "sku-0207"
+            ]
+        },
+        {
+            "Caixa": 2162,
+            "Peças": 7,
+            "Itens": [
+                "sku-0207"
+            ]
+        },
+        {
+            "Caixa": 2163,
+            "Peças": 30,
+            "Itens": [
+                "sku-0208",
+                "sku-0209"
+            ]
+        },
+        {
+            "Caixa": 2164,
+            "Peças": 24,
+            "Itens": [
+                "sku-0210",
+                "sku-0211"
+            ]
+        },
+        {
+            "Caixa": 2165,
+            "Peças": 40,
+            "Itens": [
+                "sku-0212",
+                "sku-0213",
+                "sku-0214"
+            ]
+        },
+        {
+            "Caixa": 2166,
+            "Peças": 70,
+            "Itens": [
+                "sku-0215",
+                "sku-0216",
+                "sku-0217",
+                "sku-0218",
+                "sku-0219"
+            ]
+        },
+        {
+            "Caixa": 2167,
+            "Peças": 38,
+            "Itens": [
+                "sku-0220",
+                "sku-0221",
+                "sku-0222"
+            ]
+        },
+        {
+            "Caixa": 2168,
+            "Peças": 32,
+            "Itens": [
+                "sku-0223",
+                "sku-0224"
+            ]
+        },
+        {
+            "Caixa": 2169,
+            "Peças": 34,
+            "Itens": [
+                "sku-0225",
+                "sku-0226"
+            ]
+        },
+        {
+            "Caixa": 2170,
+            "Peças": 52,
+            "Itens": [
+                "sku-0227",
+                "sku-0228",
+                "sku-0229"
+            ]
+        },
+        {
+            "Caixa": 2171,
+            "Peças": 18,
+            "Itens": [
+                "sku-0230"
+            ]
+        },
+        {
+            "Caixa": 2172,
+            "Peças": 65,
+            "Itens": [
+                "sku-0231",
+                "sku-0232",
+                "sku-0233"
+            ]
+        },
+        {
+            "Caixa": 2173,
+            "Peças": 52,
+            "Itens": [
+                "sku-0234",
+                "sku-0235",
+                "sku-0236",
+                "sku-0237",
+                "sku-0238"
+            ]
+        },
+        {
+            "Caixa": 2174,
+            "Peças": 45,
+            "Itens": [
+                "sku-0239",
+                "sku-0240",
+                "sku-0241"
+            ]
+        },
+        {
+            "Caixa": 2175,
+            "Peças": 24,
+            "Itens": [
+                "sku-0242",
+                "sku-0243",
+                "sku-0244",
+                "sku-0245"
+            ]
+        },
+        {
+            "Caixa": 2176,
+            "Peças": 15,
+            "Itens": [
+                "sku-0246",
+                "sku-0247"
+            ]
+        },
+        {
+            "Caixa": 2177,
+            "Peças": 42,
+            "Itens": [
+                "sku-0248",
+                "sku-0249",
+                "sku-0250",
+                "sku-0251"
+            ]
+        },
+        {
+            "Caixa": 2178,
+            "Peças": 35,
+            "Itens": [
+                "sku-0252",
+                "sku-0253",
+                "sku-0254",
+                "sku-0255"
+            ]
+        },
+        {
+            "Caixa": 2179,
+            "Peças": 24,
+            "Itens": [
+                "sku-0256",
+                "sku-0257"
+            ]
+        },
+        {
+            "Caixa": 2180,
+            "Peças": 15,
+            "Itens": [
+                "sku-0258",
+                "sku-0259"
+            ]
+        },
+        {
+            "Caixa": 2181,
+            "Peças": 59,
+            "Itens": [
+                "sku-0260",
+                "sku-0261",
+                "sku-0262",
+                "sku-0263",
+                "sku-0264"
+            ]
+        },
+        {
+            "Caixa": 2182,
+            "Peças": 16,
+            "Itens": [
+                "sku-0265"
+            ]
+        },
+        {
+            "Caixa": 2183,
+            "Peças": 42,
+            "Itens": [
+                "sku-0266",
+                "sku-0267",
+                "sku-0268"
+            ]
+        },
+        {
+            "Caixa": 2184,
+            "Peças": 28,
+            "Itens": [
+                "sku-0269",
+                "sku-0270"
+            ]
+        },
+        {
+            "Caixa": 2185,
+            "Peças": 75,
+            "Itens": [
+                "sku-0271",
+                "sku-0272",
+                "sku-0273",
+                "sku-0274",
+                "sku-0275",
+                "sku-0276",
+                "sku-0277",
+                "sku-0278"
+            ]
+        },
+        {
+            "Caixa": 2186,
+            "Peças": 22,
+            "Itens": [
+                "sku-0279",
+                "sku-0280"
+            ]
+        },
+        {
+            "Caixa": 2187,
+            "Peças": 4,
+            "Itens": [
+                "sku-0281"
+            ]
+        },
+        {
+            "Caixa": 2188,
+            "Peças": 40,
+            "Itens": [
+                "sku-0282",
+                "sku-0283",
+                "sku-0284"
+            ]
+        },
+        {
+            "Caixa": 2189,
+            "Peças": 49,
+            "Itens": [
+                "sku-0285",
+                "sku-0286",
+                "sku-0287",
+                "sku-0288",
+                "sku-0289"
+            ]
+        },
+        {
+            "Caixa": 2190,
+            "Peças": 60,
+            "Itens": [
+                "sku-0290",
+                "sku-0291",
+                "sku-0292",
+                "sku-0293"
+            ]
+        },
+        {
+            "Caixa": 2191,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2192,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2193,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2194,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2195,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2196,
+            "Peças": 3,
+            "Itens": [
+                "sku-0294"
+            ]
+        },
+        {
+            "Caixa": 2197,
+            "Peças": 37,
+            "Itens": [
+                "sku-0193",
+                "sku-0295",
+                "sku-0194",
+                "sku-0296"
+            ]
+        },
+        {
+            "Caixa": 2198,
+            "Peças": 17,
+            "Itens": [
+                "sku-0194"
+            ]
+        },
+        {
+            "Caixa": 2199,
+            "Peças": 22,
+            "Itens": [
+                "sku-0194",
+                "sku-0297",
+                "sku-0298"
+            ]
+        },
+        {
+            "Caixa": 2200,
+            "Peças": 55,
+            "Itens": [
+                "sku-0127",
+                "sku-0299",
+                "sku-0300",
+                "sku-0301",
+                "sku-0302"
+            ]
+        },
+        {
+            "Caixa": 2201,
+            "Peças": 56,
+            "Itens": [
+                "sku-0303",
+                "sku-0304",
+                "sku-0305",
+                "sku-0306"
+            ]
+        },
+        {
+            "Caixa": 2202,
+            "Peças": 29,
+            "Itens": [
+                "sku-0307",
+                "sku-0308",
+                "sku-0309"
+            ]
+        },
+        {
+            "Caixa": 2203,
+            "Peças": 22,
+            "Itens": [
+                "sku-0310",
+                "sku-0311"
+            ]
+        },
+        {
+            "Caixa": 2204,
+            "Peças": 20,
+            "Itens": [
+                "sku-0312"
+            ]
+        },
+        {
+            "Caixa": 2205,
+            "Peças": 20,
+            "Itens": [
+                "sku-0312"
+            ]
+        },
+        {
+            "Caixa": 2206,
+            "Peças": 93,
+            "Itens": [
+                "sku-0313",
+                "sku-0314",
+                "sku-0315",
+                "sku-0316",
+                "sku-0317",
+                "sku-0318"
+            ]
+        },
+        {
+            "Caixa": 2207,
+            "Peças": 62,
+            "Itens": [
+                "sku-0319",
+                "sku-0320",
+                "sku-0321",
+                "sku-0322",
+                "sku-0323",
+                "sku-0324",
+                "sku-0325"
+            ]
+        },
+        {
+            "Caixa": 2208,
+            "Peças": 22,
+            "Itens": [
+                "sku-0326",
+                "sku-0327"
+            ]
+        },
+        {
+            "Caixa": 2209,
+            "Peças": 34,
+            "Itens": [
+                "sku-0328",
+                "sku-0329"
+            ]
+        },
+        {
+            "Caixa": 2210,
+            "Peças": 71,
+            "Itens": [
+                "sku-0330",
+                "sku-0074",
+                "sku-0331",
+                "sku-0332"
+            ]
+        },
+        {
+            "Caixa": 2211,
+            "Peças": 60,
+            "Itens": [
+                "sku-0333",
+                "sku-0334",
+                "sku-0335",
+                "sku-0336",
+                "sku-0337"
+            ]
+        },
+        {
+            "Caixa": 2212,
+            "Peças": 34,
+            "Itens": [
+                "sku-0338",
+                "sku-0339"
+            ]
+        },
+        {
+            "Caixa": 2213,
+            "Peças": 10,
+            "Itens": [
+                "sku-0340"
+            ]
+        },
+        {
+            "Caixa": 2214,
+            "Peças": 8,
+            "Itens": [
+                "sku-0340",
+                "sku-0341"
+            ]
+        },
+        {
+            "Caixa": 2215,
+            "Peças": 34,
+            "Itens": [
+                "sku-0342",
+                "sku-0343",
+                "sku-0344",
+                "sku-0345",
+                "sku-0346"
+            ]
+        },
+        {
+            "Caixa": 2216,
+            "Peças": 30,
+            "Itens": [
+                "sku-0347",
+                "sku-0348",
+                "sku-0349"
+            ]
+        },
+        {
+            "Caixa": 2217,
+            "Peças": 28,
+            "Itens": [
+                "sku-0350",
+                "sku-0351"
+            ]
+        },
+        {
+            "Caixa": 2218,
+            "Peças": 96,
+            "Itens": [
+                "sku-0352",
+                "sku-0353",
+                "sku-0354",
+                "sku-0355",
+                "sku-0356",
+                "sku-0357",
+                "sku-0358"
+            ]
+        },
+        {
+            "Caixa": 2219,
+            "Peças": 52,
+            "Itens": [
+                "sku-0359",
+                "sku-0360",
+                "sku-0361"
+            ]
+        },
+        {
+            "Caixa": 2220,
+            "Peças": 8,
+            "Itens": [
+                "sku-0362"
+            ]
+        },
+        {
+            "Caixa": 2221,
+            "Peças": 24,
+            "Itens": [
+                "sku-0362",
+                "sku-0363"
+            ]
+        },
+        {
+            "Caixa": 2222,
+            "Peças": 27,
+            "Itens": [
+                "sku-0364",
+                "sku-0365",
+                "sku-0366"
+            ]
+        },
+        {
+            "Caixa": 2223,
+            "Peças": 16,
+            "Itens": [
+                "sku-0367"
+            ]
+        },
+        {
+            "Caixa": 2224,
+            "Peças": 12,
+            "Itens": [
+                "sku-0368"
+            ]
+        },
+        {
+            "Caixa": 2225,
+            "Peças": 12,
+            "Itens": [
+                "sku-0369"
+            ]
+        },
+        {
+            "Caixa": 2226,
+            "Peças": 6,
+            "Itens": [
+                "sku-0370"
+            ]
+        },
+        {
+            "Caixa": 2227,
+            "Peças": 23,
+            "Itens": [
+                "sku-0371",
+                "sku-0372"
+            ]
+        },
+        {
+            "Caixa": 2228,
+            "Peças": 9,
+            "Itens": [
+                "sku-0373"
+            ]
+        },
+        {
+            "Caixa": 2229,
+            "Peças": 4,
+            "Itens": [
+                "sku-0374"
+            ]
+        },
+        {
+            "Caixa": 2230,
+            "Peças": 54,
+            "Itens": [
+                "sku-0375",
+                "sku-0376",
+                "sku-0377",
+                "sku-0378"
+            ]
+        },
+        {
+            "Caixa": 2231,
+            "Peças": 81,
+            "Itens": [
+                "sku-0379",
+                "sku-0380",
+                "sku-0381",
+                "sku-0382",
+                "sku-0009",
+                "sku-0383"
+            ]
+        },
+        {
+            "Caixa": 2232,
+            "Peças": 46,
+            "Itens": [
+                "sku-0384",
+                "sku-0385",
+                "sku-0386",
+                "sku-0387",
+                "sku-0388"
+            ]
+        },
+        {
+            "Caixa": 2233,
+            "Peças": 32,
+            "Itens": [
+                "sku-0389",
+                "sku-0390",
+                "sku-0391"
+            ]
+        },
+        {
+            "Caixa": 2234,
+            "Peças": 42,
+            "Itens": [
+                "sku-0392",
+                "sku-0393",
+                "sku-0394",
+                "sku-0395"
+            ]
+        },
+        {
+            "Caixa": 2235,
+            "Peças": 95,
+            "Itens": [
+                "sku-0396",
+                "sku-0397",
+                "sku-0398",
+                "sku-0399",
+                "sku-0400",
+                "sku-0401",
+                "sku-0402"
+            ]
+        },
+        {
+            "Caixa": 2236,
+            "Peças": 31,
+            "Itens": [
+                "sku-0403",
+                "sku-0404",
+                "sku-0405",
+                "sku-0406"
+            ]
+        },
+        {
+            "Caixa": 2237,
+            "Peças": 56,
+            "Itens": [
+                "sku-0407",
+                "sku-0408",
+                "sku-0409",
+                "sku-0410"
+            ]
+        },
+        {
+            "Caixa": 2238,
+            "Peças": 16,
+            "Itens": [
+                "sku-0411"
+            ]
+        },
+        {
+            "Caixa": 2239,
+            "Peças": 29,
+            "Itens": [
+                "sku-0412",
+                "sku-0411",
+                "sku-0413"
+            ]
+        },
+        {
+            "Caixa": 2240,
+            "Peças": 12,
+            "Itens": [
+                "sku-0414"
+            ]
+        },
+        {
+            "Caixa": 2241,
+            "Peças": 34,
+            "Itens": [
+                "sku-0415",
+                "sku-0416"
+            ]
+        },
+        {
+            "Caixa": 2242,
+            "Peças": 20,
+            "Itens": [
+                "sku-0417"
+            ]
+        },
+        {
+            "Caixa": 2243,
+            "Peças": 5,
+            "Itens": [
+                "sku-0418"
+            ]
+        },
+        {
+            "Caixa": 2244,
+            "Peças": 5,
+            "Itens": [
+                "sku-0418"
+            ]
+        },
+        {
+            "Caixa": 2245,
+            "Peças": 7,
+            "Itens": [
+                "sku-0418",
+                "sku-0419"
+            ]
+        },
+        {
+            "Caixa": 2246,
+            "Peças": 30,
+            "Itens": [
+                "sku-0420",
+                "sku-0155",
+                "sku-0421"
+            ]
+        },
+        {
+            "Caixa": 2247,
+            "Peças": 12,
+            "Itens": [
+                "sku-0422",
+                "sku-0423"
+            ]
+        },
+        {
+            "Caixa": 2248,
+            "Peças": 70,
+            "Itens": [
+                "sku-0424",
+                "sku-0425",
+                "sku-0426",
+                "sku-0427"
+            ]
+        },
+        {
+            "Caixa": 2249,
+            "Peças": 13,
+            "Itens": [
+                "sku-0428",
+                "sku-0429"
+            ]
+        },
+        {
+            "Caixa": 2250,
+            "Peças": 53,
+            "Itens": [
+                "sku-0430",
+                "sku-0431",
+                "sku-0432",
+                "sku-0433",
+                "sku-0434"
+            ]
+        },
+        {
+            "Caixa": 2251,
+            "Peças": 25,
+            "Itens": [
+                "sku-0435",
+                "sku-0436"
+            ]
+        },
+        {
+            "Caixa": 2252,
+            "Peças": 61,
+            "Itens": [
+                "sku-0437",
+                "sku-0438",
+                "sku-0439",
+                "sku-0440",
+                "sku-0441",
+                "sku-0442"
+            ]
+        },
+        {
+            "Caixa": 2253,
+            "Peças": 40,
+            "Itens": [
+                "sku-0443",
+                "sku-0444",
+                "sku-0445",
+                "sku-0446"
+            ]
+        },
+        {
+            "Caixa": 2254,
+            "Peças": 34,
+            "Itens": [
+                "sku-0447",
+                "sku-0448",
+                "sku-0449"
+            ]
+        },
+        {
+            "Caixa": 2255,
+            "Peças": 75,
+            "Itens": [
+                "sku-0450",
+                "sku-0451",
+                "sku-0452",
+                "sku-0453"
+            ]
+        },
+        {
+            "Caixa": 2256,
+            "Peças": 35,
+            "Itens": [
+                "sku-0454",
+                "sku-0209",
+                "sku-0455"
+            ]
+        },
+        {
+            "Caixa": 2257,
+            "Peças": 53,
+            "Itens": [
+                "sku-0456",
+                "sku-0457",
+                "sku-0458",
+                "sku-0459"
+            ]
+        },
+        {
+            "Caixa": 2258,
+            "Peças": 20,
+            "Itens": [
+                "sku-0460",
+                "sku-0166"
+            ]
+        },
+        {
+            "Caixa": 2259,
+            "Peças": 21,
+            "Itens": [
+                "sku-0461",
+                "sku-0462"
+            ]
+        },
+        {
+            "Caixa": 2260,
+            "Peças": 21,
+            "Itens": [
+                "sku-0463",
+                "sku-0464"
+            ]
+        },
+        {
+            "Caixa": 2261,
+            "Peças": 51,
+            "Itens": [
+                "sku-0465",
+                "sku-0406",
+                "sku-0466"
+            ]
+        },
+        {
+            "Caixa": 2262,
+            "Peças": 12,
+            "Itens": [
+                "sku-0467"
+            ]
+        },
+        {
+            "Caixa": 2263,
+            "Peças": 25,
+            "Itens": [
+                "sku-0468",
+                "sku-0469",
+                "sku-0470"
+            ]
+        },
+        {
+            "Caixa": 2264,
+            "Peças": 72,
+            "Itens": [
+                "sku-0471",
+                "sku-0472",
+                "sku-0473",
+                "sku-0474",
+                "sku-0475"
+            ]
+        },
+        {
+            "Caixa": 2265,
+            "Peças": 37,
+            "Itens": [
+                "sku-0476",
+                "sku-0477",
+                "sku-0478",
+                "sku-0479"
+            ]
+        },
+        {
+            "Caixa": 2266,
+            "Peças": 19,
+            "Itens": [
+                "sku-0249",
+                "sku-0480"
+            ]
+        },
+        {
+            "Caixa": 2267,
+            "Peças": 22,
+            "Itens": [
+                "sku-0481",
+                "sku-0482"
+            ]
+        },
+        {
+            "Caixa": 2268,
+            "Peças": 37,
+            "Itens": [
+                "sku-0483",
+                "sku-0484",
+                "sku-0485",
+                "sku-0486"
+            ]
+        },
+        {
+            "Caixa": 2269,
+            "Peças": 49,
+            "Itens": [
+                "sku-0487",
+                "sku-0488",
+                "sku-0489",
+                "sku-0024"
+            ]
+        },
+        {
+            "Caixa": 2270,
+            "Peças": 49,
+            "Itens": [
+                "sku-0490",
+                "sku-0491",
+                "sku-0492",
+                "sku-0493"
+            ]
+        },
+        {
+            "Caixa": 2271,
+            "Peças": 50,
+            "Itens": [
+                "sku-0494",
+                "sku-0495",
+                "sku-0496"
+            ]
+        },
+        {
+            "Caixa": 2272,
+            "Peças": 46,
+            "Itens": [
+                "sku-0497",
+                "sku-0498",
+                "sku-0499",
+                "sku-0500",
+                "sku-0501"
+            ]
+        },
+        {
+            "Caixa": 2273,
+            "Peças": 46,
+            "Itens": [
+                "sku-0502",
+                "sku-0503",
+                "sku-0504"
+            ]
+        },
+        {
+            "Caixa": 2274,
+            "Peças": 56,
+            "Itens": [
+                "sku-0505",
+                "sku-0506",
+                "sku-0180"
+            ]
+        },
+        {
+            "Caixa": 2275,
+            "Peças": 29,
+            "Itens": [
+                "sku-0507",
+                "sku-0508"
+            ]
+        },
+        {
+            "Caixa": 2276,
+            "Peças": 24,
+            "Itens": [
+                "sku-0509",
+                "sku-0510"
+            ]
+        },
+        {
+            "Caixa": 2277,
+            "Peças": 52,
+            "Itens": [
+                "sku-0511",
+                "sku-0512",
+                "sku-0513",
+                "sku-0514"
+            ]
+        },
+        {
+            "Caixa": 2278,
+            "Peças": 16,
+            "Itens": [
+                "sku-0515"
+            ]
+        },
+        {
+            "Caixa": 2279,
+            "Peças": 32,
+            "Itens": [
+                "sku-0516",
+                "sku-0517",
+                "sku-0518"
+            ]
+        },
+        {
+            "Caixa": 2280,
+            "Peças": 16,
+            "Itens": [
+                "sku-0519",
+                "sku-0520"
+            ]
+        },
+        {
+            "Caixa": 2281,
+            "Peças": 18,
+            "Itens": [
+                "sku-0521",
+                "sku-0522"
+            ]
+        },
+        {
+            "Caixa": 2282,
+            "Peças": 20,
+            "Itens": [
+                "sku-0523",
+                "sku-0524",
+                "sku-0525"
+            ]
+        },
+        {
+            "Caixa": 2283,
+            "Peças": 60,
+            "Itens": [
+                "sku-0137",
+                "sku-0526",
+                "sku-0527",
+                "sku-0528"
+            ]
+        },
+        {
+            "Caixa": 2284,
+            "Peças": 18,
+            "Itens": [
+                "sku-0529"
+            ]
+        },
+        {
+            "Caixa": 2285,
+            "Peças": 41,
+            "Itens": [
+                "sku-0530",
+                "sku-0014",
+                "sku-0531"
+            ]
+        },
+        {
+            "Caixa": 2286,
+            "Peças": 35,
+            "Itens": [
+                "sku-0532",
+                "sku-0533",
+                "sku-0534"
+            ]
+        },
+        {
+            "Caixa": 2287,
+            "Peças": 19,
+            "Itens": [
+                "sku-0535",
+                "sku-0536"
+            ]
+        },
+        {
+            "Caixa": 2288,
+            "Peças": 27,
+            "Itens": [
+                "sku-0537",
+                "sku-0538",
+                "sku-0539"
+            ]
+        },
+        {
+            "Caixa": 2289,
+            "Peças": 57,
+            "Itens": [
+                "sku-0540",
+                "sku-0541",
+                "sku-0542",
+                "sku-0543",
+                "sku-0544"
+            ]
+        },
+        {
+            "Caixa": 2290,
+            "Peças": 11,
+            "Itens": [
+                "sku-0545",
+                "sku-0546"
+            ]
+        },
+        {
+            "Caixa": 2291,
+            "Peças": 23,
+            "Itens": [
+                "sku-0545",
+                "sku-0547"
+            ]
+        },
+        {
+            "Caixa": 2292,
+            "Peças": 68,
+            "Itens": [
+                "sku-0548",
+                "sku-0549",
+                "sku-0550",
+                "sku-0551",
+                "sku-0552",
+                "sku-0553"
+            ]
+        },
+        {
+            "Caixa": 2293,
+            "Peças": 30,
+            "Itens": [
+                "sku-0554",
+                "sku-0555",
+                "sku-0556"
+            ]
+        },
+        {
+            "Caixa": 2294,
+            "Peças": 35,
+            "Itens": [
+                "sku-0557",
+                "sku-0558"
+            ]
+        },
+        {
+            "Caixa": 2295,
+            "Peças": 7,
+            "Itens": [
+                "sku-0559"
+            ]
+        },
+        {
+            "Caixa": 2296,
+            "Peças": 20,
+            "Itens": [
+                "sku-0560"
+            ]
+        },
+        {
+            "Caixa": 2297,
+            "Peças": 8,
+            "Itens": [
+                "sku-0561"
+            ]
+        },
+        {
+            "Caixa": 2298,
+            "Peças": 8,
+            "Itens": [
+                "sku-0562"
+            ]
+        },
+        {
+            "Caixa": 2299,
+            "Peças": 35,
+            "Itens": [
+                "sku-0563",
+                "sku-0564"
+            ]
+        },
+        {
+            "Caixa": 2300,
+            "Peças": 76,
+            "Itens": [
+                "sku-0565",
+                "sku-0388",
+                "sku-0566",
+                "sku-0567",
+                "sku-0568"
+            ]
+        },
+        {
+            "Caixa": 2301,
+            "Peças": 52,
+            "Itens": [
+                "sku-0569",
+                "sku-0570",
+                "sku-0571",
+                "sku-0572"
+            ]
+        },
+        {
+            "Caixa": 2302,
+            "Peças": 46,
+            "Itens": [
+                "sku-0573",
+                "sku-0574",
+                "sku-0575"
+            ]
+        },
+        {
+            "Caixa": 2303,
+            "Peças": 42,
+            "Itens": [
+                "sku-0576",
+                "sku-0577",
+                "sku-0578"
+            ]
+        },
+        {
+            "Caixa": 2304,
+            "Peças": 33,
+            "Itens": [
+                "sku-0579",
+                "sku-0580",
+                "sku-0581"
+            ]
+        },
+        {
+            "Caixa": 2305,
+            "Peças": 26,
+            "Itens": [
+                "sku-0582",
+                "sku-0583"
+            ]
+        },
+        {
+            "Caixa": 2306,
+            "Peças": 45,
+            "Itens": [
+                "sku-0584",
+                "sku-0585",
+                "sku-0586"
+            ]
+        },
+        {
+            "Caixa": 2307,
+            "Peças": 37,
+            "Itens": [
+                "sku-0587",
+                "sku-0588",
+                "sku-0589"
+            ]
+        },
+        {
+            "Caixa": 2308,
+            "Peças": 42,
+            "Itens": [
+                "sku-0590",
+                "sku-0591",
+                "sku-0592",
+                "sku-0593"
+            ]
+        },
+        {
+            "Caixa": 2309,
+            "Peças": 12,
+            "Itens": [
+                "sku-0594"
+            ]
+        },
+        {
+            "Caixa": 2310,
+            "Peças": 40,
+            "Itens": [
+                "sku-0595",
+                "sku-0596",
+                "sku-0597"
+            ]
+        },
+        {
+            "Caixa": 2311,
+            "Peças": 6,
+            "Itens": [
+                "sku-0598"
+            ]
+        },
+        {
+            "Caixa": 2312,
+            "Peças": 14,
+            "Itens": [
+                "sku-0598",
+                "sku-0599"
+            ]
+        },
+        {
+            "Caixa": 2313,
+            "Peças": 60,
+            "Itens": [
+                "sku-0600",
+                "sku-0601",
+                "sku-0602",
+                "sku-0603"
+            ]
+        },
+        {
+            "Caixa": 2314,
+            "Peças": 38,
+            "Itens": [
+                "sku-0604",
+                "sku-0605",
+                "sku-0606",
+                "sku-0607"
+            ]
+        },
+        {
+            "Caixa": 2315,
+            "Peças": 43,
+            "Itens": [
+                "sku-0608",
+                "sku-0609",
+                "sku-0610",
+                "sku-0611"
+            ]
+        },
+        {
+            "Caixa": 2316,
+            "Peças": 61,
+            "Itens": [
+                "sku-0612",
+                "sku-0613",
+                "sku-0614",
+                "sku-0615",
+                "sku-0616"
+            ]
+        },
+        {
+            "Caixa": 2317,
+            "Peças": 72,
+            "Itens": [
+                "sku-0617",
+                "sku-0618",
+                "sku-0619",
+                "sku-0620",
+                "sku-0621"
+            ]
+        },
+        {
+            "Caixa": 2318,
+            "Peças": 8,
+            "Itens": [
+                "sku-0622"
+            ]
+        },
+        {
+            "Caixa": 2319,
+            "Peças": 38,
+            "Itens": [
+                "sku-0623",
+                "sku-0624",
+                "sku-0625",
+                "sku-0626"
+            ]
+        },
+        {
+            "Caixa": 2320,
+            "Peças": 30,
+            "Itens": [
+                "sku-0627",
+                "sku-0628"
+            ]
+        },
+        {
+            "Caixa": 2321,
+            "Peças": 24,
+            "Itens": [
+                "sku-0223",
+                "sku-0629"
+            ]
+        },
+        {
+            "Caixa": 2322,
+            "Peças": 34,
+            "Itens": [
+                "sku-0630",
+                "sku-0631"
+            ]
+        },
+        {
+            "Caixa": 2323,
+            "Peças": 30,
+            "Itens": [
+                "sku-0143",
+                "sku-0632"
+            ]
+        },
+        {
+            "Caixa": 2324,
+            "Peças": 32,
+            "Itens": [
+                "sku-0633",
+                "sku-0634"
+            ]
+        },
+        {
+            "Caixa": 2325,
+            "Peças": 24,
+            "Itens": [
+                "sku-0635",
+                "sku-0636",
+                "sku-0637"
+            ]
+        },
+        {
+            "Caixa": 2326,
+            "Peças": 10,
+            "Itens": [
+                "sku-0638"
+            ]
+        },
+        {
+            "Caixa": 2327,
+            "Peças": 41,
+            "Itens": [
+                "sku-0639",
+                "sku-0640",
+                "sku-0641"
+            ]
+        },
+        {
+            "Caixa": 2328,
+            "Peças": 6,
+            "Itens": [
+                "sku-0642"
+            ]
+        },
+        {
+            "Caixa": 2329,
+            "Peças": 56,
+            "Itens": [
+                "sku-0643",
+                "sku-0644",
+                "sku-0477",
+                "sku-0645"
+            ]
+        },
+        {
+            "Caixa": 2330,
+            "Peças": 24,
+            "Itens": [
+                "sku-0646",
+                "sku-0647"
+            ]
+        },
+        {
+            "Caixa": 2331,
+            "Peças": 23,
+            "Itens": [
+                "sku-0648",
+                "sku-0649"
+            ]
+        },
+        {
+            "Caixa": 2332,
+            "Peças": 41,
+            "Itens": [
+                "sku-0650",
+                "sku-0651",
+                "sku-0652",
+                "sku-0653"
+            ]
+        },
+        {
+            "Caixa": 2333,
+            "Peças": 8,
+            "Itens": [
+                "sku-0654"
+            ]
+        },
+        {
+            "Caixa": 2334,
+            "Peças": 14,
+            "Itens": [
+                "sku-0655"
+            ]
+        },
+        {
+            "Caixa": 2335,
+            "Peças": 18,
+            "Itens": [
+                "sku-0656",
+                "sku-0657"
+            ]
+        },
+        {
+            "Caixa": 2336,
+            "Peças": 50,
+            "Itens": [
+                "sku-0658",
+                "sku-0659",
+                "sku-0660",
+                "sku-0656"
+            ]
+        },
+        {
+            "Caixa": 2337,
+            "Peças": 54,
+            "Itens": [
+                "sku-0661",
+                "sku-0662",
+                "sku-0663",
+                "sku-0664"
+            ]
+        },
+        {
+            "Caixa": 2338,
+            "Peças": 52,
+            "Itens": [
+                "sku-0665",
+                "sku-0666",
+                "sku-0667",
+                "sku-0668"
+            ]
+        },
+        {
+            "Caixa": 2339,
+            "Peças": 27,
+            "Itens": [
+                "sku-0669",
+                "sku-0670",
+                "sku-0671"
+            ]
+        },
+        {
+            "Caixa": 2340,
+            "Peças": 55,
+            "Itens": [
+                "sku-0672",
+                "sku-0673",
+                "sku-0674",
+                "sku-0675"
+            ]
+        },
+        {
+            "Caixa": 2341,
+            "Peças": 10,
+            "Itens": [
+                "sku-0676",
+                "sku-0677"
+            ]
+        },
+        {
+            "Caixa": 2342,
+            "Peças": 27,
+            "Itens": [
+                "sku-0386",
+                "sku-0678",
+                "sku-0679"
+            ]
+        },
+        {
+            "Caixa": 2343,
+            "Peças": 39,
+            "Itens": [
+                "sku-0680",
+                "sku-0681",
+                "sku-0682",
+                "sku-0683"
+            ]
+        },
+        {
+            "Caixa": 2344,
+            "Peças": 36,
+            "Itens": [
+                "sku-0684",
+                "sku-0685"
+            ]
+        },
+        {
+            "Caixa": 2345,
+            "Peças": 26,
+            "Itens": [
+                "sku-0686",
+                "sku-0687"
+            ]
+        },
+        {
+            "Caixa": 2346,
+            "Peças": 30,
+            "Itens": [
+                "sku-0688",
+                "sku-0689",
+                "sku-0690"
+            ]
+        },
+        {
+            "Caixa": 2347,
+            "Peças": 36,
+            "Itens": [
+                "sku-0691",
+                "sku-0692"
+            ]
+        },
+        {
+            "Caixa": 2348,
+            "Peças": 46,
+            "Itens": [
+                "sku-0693",
+                "sku-0694",
+                "sku-0695"
+            ]
+        },
+        {
+            "Caixa": 2349,
+            "Peças": 48,
+            "Itens": [
+                "sku-0696",
+                "sku-0697",
+                "sku-0698"
+            ]
+        },
+        {
+            "Caixa": 2350,
+            "Peças": 63,
+            "Itens": [
+                "sku-0699",
+                "sku-0700",
+                "sku-0701"
+            ]
+        },
+        {
+            "Caixa": 2351,
+            "Peças": 16,
+            "Itens": [
+                "sku-0702"
+            ]
+        },
+        {
+            "Caixa": 2352,
+            "Peças": 99,
+            "Itens": [
+                "sku-0703",
+                "sku-0704",
+                "sku-0705",
+                "sku-0244",
+                "sku-0679",
+                "sku-0706"
+            ]
+        },
+        {
+            "Caixa": 2353,
+            "Peças": 51,
+            "Itens": [
+                "sku-0707",
+                "sku-0708",
+                "sku-0709",
+                "sku-0710"
+            ]
+        },
+        {
+            "Caixa": 2354,
+            "Peças": 57,
+            "Itens": [
+                "sku-0711",
+                "sku-0712",
+                "sku-0713",
+                "sku-0714"
+            ]
+        },
+        {
+            "Caixa": 2355,
+            "Peças": 26,
+            "Itens": [
+                "sku-0715",
+                "sku-0490",
+                "sku-0716"
+            ]
+        },
+        {
+            "Caixa": 2356,
+            "Peças": 71,
+            "Itens": [
+                "sku-0717",
+                "sku-0715",
+                "sku-0718",
+                "sku-0719"
+            ]
+        },
+        {
+            "Caixa": 2357,
+            "Peças": 42,
+            "Itens": [
+                "sku-0720",
+                "sku-0721",
+                "sku-0722"
+            ]
+        },
+        {
+            "Caixa": 2358,
+            "Peças": 32,
+            "Itens": [
+                "sku-0723",
+                "sku-0724"
+            ]
+        },
+        {
+            "Caixa": 2359,
+            "Peças": 16,
+            "Itens": [
+                "sku-0725",
+                "sku-0726"
+            ]
+        },
+        {
+            "Caixa": 2360,
+            "Peças": 5,
+            "Itens": [
+                "sku-0727"
+            ]
+        },
+        {
+            "Caixa": 2361,
+            "Peças": 36,
+            "Itens": [
+                "sku-0728",
+                "sku-0017",
+                "sku-0729"
+            ]
+        },
+        {
+            "Caixa": 2362,
+            "Peças": 63,
+            "Itens": [
+                "sku-0730",
+                "sku-0731",
+                "sku-0732",
+                "sku-0733",
+                "sku-0734"
+            ]
+        },
+        {
+            "Caixa": 2363,
+            "Peças": 38,
+            "Itens": [
+                "sku-0735",
+                "sku-0736"
+            ]
+        },
+        {
+            "Caixa": 2364,
+            "Peças": 20,
+            "Itens": [
+                "sku-0737"
+            ]
+        },
+        {
+            "Caixa": 2365,
+            "Peças": 6,
+            "Itens": [
+                "sku-0738"
+            ]
+        },
+        {
+            "Caixa": 2366,
+            "Peças": 28,
+            "Itens": [
+                "sku-0739",
+                "sku-0740"
+            ]
+        },
+        {
+            "Caixa": 2367,
+            "Peças": 22,
+            "Itens": [
+                "sku-0741",
+                "sku-0410",
+                "sku-0742"
+            ]
+        },
+        {
+            "Caixa": 2368,
+            "Peças": 32,
+            "Itens": [
+                "sku-0002",
+                "sku-0743"
+            ]
+        },
+        {
+            "Caixa": 2369,
+            "Peças": 40,
+            "Itens": [
+                "sku-0744",
+                "sku-0745",
+                "sku-0746"
+            ]
+        },
+        {
+            "Caixa": 2370,
+            "Peças": 30,
+            "Itens": [
+                "sku-0747",
+                "sku-0748",
+                "sku-0749"
+            ]
+        },
+        {
+            "Caixa": 2371,
+            "Peças": 42,
+            "Itens": [
+                "sku-0750",
+                "sku-0751",
+                "sku-0752",
+                "sku-0753"
+            ]
+        },
+        {
+            "Caixa": 2372,
+            "Peças": 26,
+            "Itens": [
+                "sku-0754",
+                "sku-0755",
+                "sku-0756"
+            ]
+        },
+        {
+            "Caixa": 2373,
+            "Peças": 46,
+            "Itens": [
+                "sku-0757",
+                "sku-0758",
+                "sku-0759",
+                "sku-0760"
+            ]
+        },
+        {
+            "Caixa": 2374,
+            "Peças": 21,
+            "Itens": [
+                "sku-0761"
+            ]
+        },
+        {
+            "Caixa": 2375,
+            "Peças": 17,
+            "Itens": [
+                "sku-0762",
+                "sku-0763"
+            ]
+        },
+        {
+            "Caixa": 2376,
+            "Peças": 6,
+            "Itens": [
+                "sku-0692"
+            ]
+        },
+        {
+            "Caixa": 2377,
+            "Peças": 32,
+            "Itens": [
+                "sku-0764",
+                "sku-0765",
+                "sku-0766"
+            ]
+        },
+        {
+            "Caixa": 2378,
+            "Peças": 50,
+            "Itens": [
+                "sku-0767",
+                "sku-0768",
+                "sku-0769",
+                "sku-0770"
+            ]
+        },
+        {
+            "Caixa": 2379,
+            "Peças": 24,
+            "Itens": [
+                "sku-0771",
+                "sku-0772",
+                "sku-0773"
+            ]
+        },
+        {
+            "Caixa": 2380,
+            "Peças": 50,
+            "Itens": [
+                "sku-0774",
+                "sku-0775",
+                "sku-0776",
+                "sku-0777"
+            ]
+        },
+        {
+            "Caixa": 2381,
+            "Peças": 49,
+            "Itens": [
+                "sku-0778",
+                "sku-0779",
+                "sku-0780"
+            ]
+        },
+        {
+            "Caixa": 2382,
+            "Peças": 14,
+            "Itens": [
+                "sku-0781",
+                "sku-0782"
+            ]
+        },
+        {
+            "Caixa": 2383,
+            "Peças": 23,
+            "Itens": [
+                "sku-0783",
+                "sku-0784",
+                "sku-0785"
+            ]
+        },
+        {
+            "Caixa": 2384,
+            "Peças": 57,
+            "Itens": [
+                "sku-0786",
+                "sku-0787",
+                "sku-0788",
+                "sku-0789"
+            ]
+        },
+        {
+            "Caixa": 2385,
+            "Peças": 3,
+            "Itens": [
+                "sku-0790"
+            ]
+        },
+        {
+            "Caixa": 2386,
+            "Peças": 15,
+            "Itens": [
+                "sku-0335"
+            ]
+        },
+        {
+            "Caixa": 2387,
+            "Peças": 4,
+            "Itens": [
+                "sku-0791"
+            ]
+        },
+        {
+            "Caixa": 2388,
+            "Peças": 6,
+            "Itens": [
+                "sku-0792"
+            ]
+        },
+        {
+            "Caixa": 2389,
+            "Peças": 20,
+            "Itens": [
+                "sku-0793",
+                "sku-0794"
+            ]
+        },
+        {
+            "Caixa": 2390,
+            "Peças": 10,
+            "Itens": [
+                "sku-0795"
+            ]
+        },
+        {
+            "Caixa": 2391,
+            "Peças": 53,
+            "Itens": [
+                "sku-0396",
+                "sku-0796",
+                "sku-0797",
+                "sku-0798",
+                "sku-0799"
+            ]
+        },
+        {
+            "Caixa": 2392,
+            "Peças": 20,
+            "Itens": [
+                "sku-0800",
+                "sku-0801"
+            ]
+        },
+        {
+            "Caixa": 2393,
+            "Peças": 44,
+            "Itens": [
+                "sku-0802",
+                "sku-0803",
+                "sku-0804",
+                "sku-0805"
+            ]
+        },
+        {
+            "Caixa": 2394,
+            "Peças": 77,
+            "Itens": [
+                "sku-0806",
+                "sku-0807",
+                "sku-0808",
+                "sku-0809",
+                "sku-0810"
+            ]
+        },
+        {
+            "Caixa": 2395,
+            "Peças": 50,
+            "Itens": [
+                "sku-0811",
+                "sku-0812",
+                "sku-0813",
+                "sku-0814"
+            ]
+        },
+        {
+            "Caixa": 2396,
+            "Peças": 5,
+            "Itens": [
+                "sku-0815"
+            ]
+        },
+        {
+            "Caixa": 2397,
+            "Peças": 5,
+            "Itens": [
+                "sku-0815"
+            ]
+        },
+        {
+            "Caixa": 2398,
+            "Peças": 5,
+            "Itens": [
+                "sku-0815"
+            ]
+        },
+        {
+            "Caixa": 2399,
+            "Peças": 24,
+            "Itens": [
+                "sku-0816",
+                "sku-0817",
+                "sku-0818"
+            ]
+        },
+        {
+            "Caixa": 2400,
+            "Peças": 51,
+            "Itens": [
+                "sku-0819",
+                "sku-0820",
+                "sku-0821",
+                "sku-0822"
+            ]
+        },
+        {
+            "Caixa": 2401,
+            "Peças": 15,
+            "Itens": [
+                "sku-0823",
+                "sku-0824"
+            ]
+        },
+        {
+            "Caixa": 2402,
+            "Peças": 34,
+            "Itens": [
+                "sku-0825",
+                "sku-0826",
+                "sku-0827"
+            ]
+        },
+        {
+            "Caixa": 2403,
+            "Peças": 40,
+            "Itens": [
+                "sku-0828",
+                "sku-0829",
+                "sku-0830",
+                "sku-0831"
+            ]
+        },
+        {
+            "Caixa": 2404,
+            "Peças": 44,
+            "Itens": [
+                "sku-0832",
+                "sku-0833",
+                "sku-0834"
+            ]
+        },
+        {
+            "Caixa": 2405,
+            "Peças": 8,
+            "Itens": [
+                "sku-0835"
+            ]
+        },
+        {
+            "Caixa": 2406,
+            "Peças": 8,
+            "Itens": [
+                "sku-0835"
+            ]
+        },
+        {
+            "Caixa": 2407,
+            "Peças": 26,
+            "Itens": [
+                "sku-0649",
+                "sku-0836"
+            ]
+        },
+        {
+            "Caixa": 2408,
+            "Peças": 86,
+            "Itens": [
+                "sku-0837",
+                "sku-0838",
+                "sku-0574",
+                "sku-0839",
+                "sku-0840",
+                "sku-0841"
+            ]
+        },
+        {
+            "Caixa": 2409,
+            "Peças": 42,
+            "Itens": [
+                "sku-0842",
+                "sku-0843",
+                "sku-0844",
+                "sku-0845"
+            ]
+        },
+        {
+            "Caixa": 2410,
+            "Peças": 32,
+            "Itens": [
+                "sku-0846",
+                "sku-0847",
+                "sku-0848"
+            ]
+        },
+        {
+            "Caixa": 2411,
+            "Peças": 4,
+            "Itens": [
+                "sku-0849"
+            ]
+        },
+        {
+            "Caixa": 2412,
+            "Peças": 40,
+            "Itens": [
+                "sku-0850",
+                "sku-0851",
+                "sku-0812",
+                "sku-0852"
+            ]
+        },
+        {
+            "Caixa": 2413,
+            "Peças": 18,
+            "Itens": [
+                "sku-0853"
+            ]
+        },
+        {
+            "Caixa": 2414,
+            "Peças": 44,
+            "Itens": [
+                "sku-0854",
+                "sku-0855",
+                "sku-0856",
+                "sku-0789"
+            ]
+        },
+        {
+            "Caixa": 2415,
+            "Peças": 24,
+            "Itens": [
+                "sku-0857",
+                "sku-0858"
+            ]
+        },
+        {
+            "Caixa": 2416,
+            "Peças": 42,
+            "Itens": [
+                "sku-0859",
+                "sku-0860",
+                "sku-0861"
+            ]
+        },
+        {
+            "Caixa": 2417,
+            "Peças": 43,
+            "Itens": [
+                "sku-0862",
+                "sku-0863",
+                "sku-0742"
+            ]
+        },
+        {
+            "Caixa": 2418,
+            "Peças": 28,
+            "Itens": [
+                "sku-0864",
+                "sku-0865",
+                "sku-0866"
+            ]
+        },
+        {
+            "Caixa": 2419,
+            "Peças": 18,
+            "Itens": [
+                "sku-0867",
+                "sku-0868"
+            ]
+        },
+        {
+            "Caixa": 2420,
+            "Peças": 7,
+            "Itens": [
+                "sku-0869"
+            ]
+        },
+        {
+            "Caixa": 2421,
+            "Peças": 25,
+            "Itens": [
+                "sku-0870",
+                "sku-0871"
+            ]
+        },
+        {
+            "Caixa": 2422,
+            "Peças": 32,
+            "Itens": [
+                "sku-0872",
+                "sku-0873",
+                "sku-0874",
+                "sku-0875",
+                "sku-0876"
+            ]
+        },
+        {
+            "Caixa": 2423,
+            "Peças": 24,
+            "Itens": [
+                "sku-0877",
+                "sku-0878"
+            ]
+        },
+        {
+            "Caixa": 2424,
+            "Peças": 21,
+            "Itens": [
+                "sku-0879",
+                "sku-0880"
+            ]
+        },
+        {
+            "Caixa": 2425,
+            "Peças": 33,
+            "Itens": [
+                "sku-0881",
+                "sku-0882"
+            ]
+        },
+        {
+            "Caixa": 2426,
+            "Peças": 29,
+            "Itens": [
+                "sku-0883",
+                "sku-0884"
+            ]
+        },
+        {
+            "Caixa": 2427,
+            "Peças": 7,
+            "Itens": [
+                "sku-0885"
+            ]
+        },
+        {
+            "Caixa": 2428,
+            "Peças": 10,
+            "Itens": [
+                "sku-0886"
+            ]
+        },
+        {
+            "Caixa": 2429,
+            "Peças": 6,
+            "Itens": [
+                "sku-0887"
+            ]
+        },
+        {
+            "Caixa": 2430,
+            "Peças": 39,
+            "Itens": [
+                "sku-0888",
+                "sku-0889",
+                "sku-0890",
+                "sku-0492"
+            ]
+        },
+        {
+            "Caixa": 2431,
+            "Peças": 32,
+            "Itens": [
+                "sku-0533",
+                "sku-0891",
+                "sku-0892",
+                "sku-0893"
+            ]
+        },
+        {
+            "Caixa": 2432,
+            "Peças": 15,
+            "Itens": [
+                "sku-0894"
+            ]
+        },
+        {
+            "Caixa": 2433,
+            "Peças": 9,
+            "Itens": [
+                "sku-0894"
+            ]
+        },
+        {
+            "Caixa": 2434,
+            "Peças": 10,
+            "Itens": [
+                "sku-0895",
+                "sku-0041"
+            ]
+        },
+        {
+            "Caixa": 2435,
+            "Peças": 29,
+            "Itens": [
+                "sku-0896",
+                "sku-0897"
+            ]
+        },
+        {
+            "Caixa": 2436,
+            "Peças": 69,
+            "Itens": [
+                "sku-0898",
+                "sku-0899",
+                "sku-0900",
+                "sku-0901",
+                "sku-0902"
+            ]
+        },
+        {
+            "Caixa": 2437,
+            "Peças": 23,
+            "Itens": [
+                "sku-0903",
+                "sku-0904"
+            ]
+        },
+        {
+            "Caixa": 2438,
+            "Peças": 10,
+            "Itens": [
+                "sku-0905"
+            ]
+        },
+        {
+            "Caixa": 2439,
+            "Peças": 12,
+            "Itens": [
+                "sku-0906"
+            ]
+        },
+        {
+            "Caixa": 2440,
+            "Peças": 14,
+            "Itens": [
+                "sku-0907",
+                "sku-0906"
+            ]
+        },
+        {
+            "Caixa": 2441,
+            "Peças": 38,
+            "Itens": [
+                "sku-0908",
+                "sku-0909"
+            ]
+        },
+        {
+            "Caixa": 2442,
+            "Peças": 41,
+            "Itens": [
+                "sku-0313",
+                "sku-0910",
+                "sku-0911",
+                "sku-0912"
+            ]
+        },
+        {
+            "Caixa": 2443,
+            "Peças": 56,
+            "Itens": [
+                "sku-0913",
+                "sku-0914",
+                "sku-0912",
+                "sku-0915"
+            ]
+        },
+        {
+            "Caixa": 2444,
+            "Peças": 36,
+            "Itens": [
+                "sku-0916",
+                "sku-0917"
+            ]
+        },
+        {
+            "Caixa": 2445,
+            "Peças": 20,
+            "Itens": [
+                "sku-0918",
+                "sku-0919"
+            ]
+        },
+        {
+            "Caixa": 2446,
+            "Peças": 28,
+            "Itens": [
+                "sku-0920",
+                "sku-0921"
+            ]
+        },
+        {
+            "Caixa": 2447,
+            "Peças": 22,
+            "Itens": [
+                "sku-0922",
+                "sku-0923"
+            ]
+        },
+        {
+            "Caixa": 2448,
+            "Peças": 4,
+            "Itens": [
+                "sku-0924"
+            ]
+        },
+        {
+            "Caixa": 2449,
+            "Peças": 15,
+            "Itens": [
+                "sku-0925"
+            ]
+        },
+        {
+            "Caixa": 2450,
+            "Peças": 34,
+            "Itens": [
+                "sku-0926",
+                "sku-0927",
+                "sku-0928",
+                "sku-0929"
+            ]
+        },
+        {
+            "Caixa": 2451,
+            "Peças": 21,
+            "Itens": [
+                "sku-0930",
+                "sku-0931",
+                "sku-0932"
+            ]
+        },
+        {
+            "Caixa": 2452,
+            "Peças": 20,
+            "Itens": [
+                "sku-0420",
+                "sku-0933",
+                "sku-0324"
+            ]
+        },
+        {
+            "Caixa": 2453,
+            "Peças": 31,
+            "Itens": [
+                "sku-0934",
+                "sku-0935"
+            ]
+        },
+        {
+            "Caixa": 2454,
+            "Peças": 31,
+            "Itens": [
+                "sku-0936",
+                "sku-0937",
+                "sku-0938"
+            ]
+        },
+        {
+            "Caixa": 2455,
+            "Peças": 42,
+            "Itens": [
+                "sku-0939",
+                "sku-0314",
+                "sku-0940"
+            ]
+        },
+        {
+            "Caixa": 2456,
+            "Peças": 46,
+            "Itens": [
+                "sku-0941",
+                "sku-0942",
+                "sku-0654"
+            ]
+        },
+        {
+            "Caixa": 2457,
+            "Peças": 7,
+            "Itens": [
+                "sku-0943"
+            ]
+        },
+        {
+            "Caixa": 2458,
+            "Peças": 37,
+            "Itens": [
+                "sku-0944",
+                "sku-0945",
+                "sku-0946",
+                "sku-0947"
+            ]
+        },
+        {
+            "Caixa": 2459,
+            "Peças": 34,
+            "Itens": [
+                "sku-0948",
+                "sku-0949",
+                "sku-0950"
+            ]
+        },
+        {
+            "Caixa": 2460,
+            "Peças": 37,
+            "Itens": [
+                "sku-0951",
+                "sku-0589",
+                "sku-0952"
+            ]
+        },
+        {
+            "Caixa": 2461,
+            "Peças": 10,
+            "Itens": [
+                "sku-0953"
+            ]
+        },
+        {
+            "Caixa": 2462,
+            "Peças": 8,
+            "Itens": [
+                "sku-0954"
+            ]
+        },
+        {
+            "Caixa": 2463,
+            "Peças": 37,
+            "Itens": [
+                "sku-0955",
+                "sku-0956",
+                "sku-0259",
+                "sku-0957"
+            ]
+        },
+        {
+            "Caixa": 2464,
+            "Peças": 10,
+            "Itens": [
+                "sku-0958"
+            ]
+        },
+        {
+            "Caixa": 2465,
+            "Peças": 28,
+            "Itens": [
+                "sku-0959",
+                "sku-0960",
+                "sku-0961"
+            ]
+        },
+        {
+            "Caixa": 2466,
+            "Peças": 37,
+            "Itens": [
+                "sku-0962",
+                "sku-0959",
+                "sku-0961"
+            ]
+        },
+        {
+            "Caixa": 2467,
+            "Peças": 45,
+            "Itens": [
+                "sku-0201",
+                "sku-0963",
+                "sku-0964"
+            ]
+        },
+        {
+            "Caixa": 2468,
+            "Peças": 35,
+            "Itens": [
+                "sku-0965",
+                "sku-0966",
+                "sku-0967"
+            ]
+        },
+        {
+            "Caixa": 2469,
+            "Peças": 16,
+            "Itens": [
+                "sku-0968",
+                "sku-0969"
+            ]
+        },
+        {
+            "Caixa": 2470,
+            "Peças": 34,
+            "Itens": [
+                "sku-0970",
+                "sku-0971",
+                "sku-0972"
+            ]
+        },
+        {
+            "Caixa": 2471,
+            "Peças": 72,
+            "Itens": [
+                "sku-0891",
+                "sku-0973",
+                "sku-0974",
+                "sku-0975",
+                "sku-0976"
+            ]
+        },
+        {
+            "Caixa": 2472,
+            "Peças": 36,
+            "Itens": [
+                "sku-0977",
+                "sku-0978"
+            ]
+        },
+        {
+            "Caixa": 2473,
+            "Peças": 20,
+            "Itens": [
+                "sku-0979"
+            ]
+        },
+        {
+            "Caixa": 2474,
+            "Peças": 26,
+            "Itens": [
+                "sku-0980",
+                "sku-0981"
+            ]
+        },
+        {
+            "Caixa": 2475,
+            "Peças": 18,
+            "Itens": [
+                "sku-0982"
+            ]
+        },
+        {
+            "Caixa": 2476,
+            "Peças": 26,
+            "Itens": [
+                "sku-0983",
+                "sku-0984"
+            ]
+        },
+        {
+            "Caixa": 2477,
+            "Peças": 28,
+            "Itens": [
+                "sku-0985",
+                "sku-0986"
+            ]
+        },
+        {
+            "Caixa": 2478,
+            "Peças": 27,
+            "Itens": [
+                "sku-0987",
+                "sku-0988"
+            ]
+        },
+        {
+            "Caixa": 2479,
+            "Peças": 16,
+            "Itens": [
+                "sku-0989"
+            ]
+        },
+        {
+            "Caixa": 2480,
+            "Peças": 36,
+            "Itens": [
+                "sku-0990",
+                "sku-0991",
+                "sku-0992"
+            ]
+        },
+        {
+            "Caixa": 2481,
+            "Peças": 24,
+            "Itens": [
+                "sku-0993"
+            ]
+        },
+        {
+            "Caixa": 2482,
+            "Peças": 38,
+            "Itens": [
+                "sku-0994",
+                "sku-0995",
+                "sku-0996"
+            ]
+        },
+        {
+            "Caixa": 2483,
+            "Peças": 24,
+            "Itens": [
+                "sku-0997"
+            ]
+        },
+        {
+            "Caixa": 2484,
+            "Peças": 20,
+            "Itens": [
+                "sku-0998",
+                "sku-0999"
+            ]
+        },
+        {
+            "Caixa": 2485,
+            "Peças": 45,
+            "Itens": [
+                "sku-1000",
+                "sku-1001",
+                "sku-1002"
+            ]
+        },
+        {
+            "Caixa": 2486,
+            "Peças": 61,
+            "Itens": [
+                "sku-1003",
+                "sku-1004",
+                "sku-1005",
+                "sku-1006"
+            ]
+        },
+        {
+            "Caixa": 2487,
+            "Peças": 32,
+            "Itens": [
+                "sku-0516",
+                "sku-1007"
+            ]
+        },
+        {
+            "Caixa": 2488,
+            "Peças": 35,
+            "Itens": [
+                "sku-1008",
+                "sku-1009",
+                "sku-1010",
+                "sku-1011"
+            ]
+        },
+        {
+            "Caixa": 2489,
+            "Peças": 45,
+            "Itens": [
+                "sku-1012",
+                "sku-1013",
+                "sku-1014"
+            ]
+        },
+        {
+            "Caixa": 2490,
+            "Peças": 48,
+            "Itens": [
+                "sku-1015",
+                "sku-1016",
+                "sku-1017"
+            ]
+        },
+        {
+            "Caixa": 2491,
+            "Peças": 36,
+            "Itens": [
+                "sku-1018",
+                "sku-1019"
+            ]
+        },
+        {
+            "Caixa": 2492,
+            "Peças": 24,
+            "Itens": [
+                "sku-1020",
+                "sku-1021"
+            ]
+        },
+        {
+            "Caixa": 2493,
+            "Peças": 18,
+            "Itens": [
+                "sku-1022"
+            ]
+        },
+        {
+            "Caixa": 2494,
+            "Peças": 21,
+            "Itens": [
+                "sku-1023"
+            ]
+        },
+        {
+            "Caixa": 2495,
+            "Peças": 34,
+            "Itens": [
+                "sku-1024",
+                "sku-1025",
+                "sku-1026",
+                "sku-1027"
+            ]
+        },
+        {
+            "Caixa": 2496,
+            "Peças": 45,
+            "Itens": [
+                "sku-1028",
+                "sku-1029",
+                "sku-1030"
+            ]
+        },
+        {
+            "Caixa": 2497,
+            "Peças": 47,
+            "Itens": [
+                "sku-1031",
+                "sku-1032",
+                "sku-1033"
+            ]
+        },
+        {
+            "Caixa": 2498,
+            "Peças": 23,
+            "Itens": [
+                "sku-1034",
+                "sku-1035"
+            ]
+        },
+        {
+            "Caixa": 2499,
+            "Peças": 19,
+            "Itens": [
+                "sku-1036",
+                "sku-1037"
+            ]
+        },
+        {
+            "Caixa": 2500,
+            "Peças": 37,
+            "Itens": [
+                "sku-1038",
+                "sku-1039",
+                "sku-1040"
+            ]
+        },
+        {
+            "Caixa": 2501,
+            "Peças": 36,
+            "Itens": [
+                "sku-1041",
+                "sku-0539"
+            ]
+        },
+        {
+            "Caixa": 2502,
+            "Peças": 29,
+            "Itens": [
+                "sku-1042",
+                "sku-1043"
+            ]
+        },
+        {
+            "Caixa": 2503,
+            "Peças": 16,
+            "Itens": [
+                "sku-1044"
+            ]
+        },
+        {
+            "Caixa": 2504,
+            "Peças": 101,
+            "Itens": [
+                "sku-1045",
+                "sku-1046",
+                "sku-1047",
+                "sku-1048",
+                "sku-1049",
+                "sku-1050"
+            ]
+        },
+        {
+            "Caixa": 2505,
+            "Peças": 46,
+            "Itens": [
+                "sku-1051",
+                "sku-1052",
+                "sku-1053",
+                "sku-1054"
+            ]
+        },
+        {
+            "Caixa": 2506,
+            "Peças": 48,
+            "Itens": [
+                "sku-1055",
+                "sku-1056",
+                "sku-1057"
+            ]
+        },
+        {
+            "Caixa": 2507,
+            "Peças": 29,
+            "Itens": [
+                "sku-1058",
+                "sku-1059",
+                "sku-1060",
+                "sku-0068"
+            ]
+        },
+        {
+            "Caixa": 2508,
+            "Peças": 32,
+            "Itens": [
+                "sku-1061",
+                "sku-1062",
+                "sku-1063"
+            ]
+        },
+        {
+            "Caixa": 2509,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2510,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2511,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2512,
+            "Peças": 100,
+            "Itens": [
+                "sku-1065",
+                "sku-1066",
+                "sku-1067",
+                "sku-1068",
+                "sku-1069"
+            ]
+        },
+        {
+            "Caixa": 2513,
+            "Peças": 47,
+            "Itens": [
+                "sku-0569",
+                "sku-1070",
+                "sku-1071"
+            ]
+        },
+        {
+            "Caixa": 2514,
+            "Peças": 7,
+            "Itens": [
+                "sku-1072"
+            ]
+        },
+        {
+            "Caixa": 2515,
+            "Peças": 16,
+            "Itens": [
+                "sku-1073",
+                "sku-1074"
+            ]
+        },
+        {
+            "Caixa": 2516,
+            "Peças": 32,
+            "Itens": [
+                "sku-0522",
+                "sku-1075"
+            ]
+        },
+        {
+            "Caixa": 2517,
+            "Peças": 43,
+            "Itens": [
+                "sku-1076",
+                "sku-1077",
+                "sku-1078"
+            ]
+        },
+        {
+            "Caixa": 2518,
+            "Peças": 8,
+            "Itens": [
+                "sku-1079"
+            ]
+        },
+        {
+            "Caixa": 2519,
+            "Peças": 20,
+            "Itens": [
+                "sku-0854",
+                "sku-1080"
+            ]
+        },
+        {
+            "Caixa": 2520,
+            "Peças": 34,
+            "Itens": [
+                "sku-1081",
+                "sku-1082"
+            ]
+        },
+        {
+            "Caixa": 2521,
+            "Peças": 24,
+            "Itens": [
+                "sku-1083"
+            ]
+        },
+        {
+            "Caixa": 2522,
+            "Peças": 28,
+            "Itens": [
+                "sku-1084",
+                "sku-1085",
+                "sku-1086"
+            ]
+        },
+        {
+            "Caixa": 2523,
+            "Peças": 30,
+            "Itens": [
+                "sku-1087",
+                "sku-1088",
+                "sku-1089"
+            ]
+        },
+        {
+            "Caixa": 2524,
+            "Peças": 18,
+            "Itens": [
+                "sku-1090"
+            ]
+        },
+        {
+            "Caixa": 2525,
+            "Peças": 9,
+            "Itens": [
+                "sku-1091"
+            ]
+        },
+        {
+            "Caixa": 2526,
+            "Peças": 57,
+            "Itens": [
+                "sku-1092",
+                "sku-1093",
+                "sku-1094",
+                "sku-1095"
+            ]
+        },
+        {
+            "Caixa": 2527,
+            "Peças": 25,
+            "Itens": [
+                "sku-1096",
+                "sku-1097"
+            ]
+        },
+        {
+            "Caixa": 2528,
+            "Peças": 56,
+            "Itens": [
+                "sku-1098",
+                "sku-1099",
+                "sku-1100",
+                "sku-1101"
+            ]
+        },
+        {
+            "Caixa": 2529,
+            "Peças": 49,
+            "Itens": [
+                "sku-1102",
+                "sku-1103",
+                "sku-1104"
+            ]
+        },
+        {
+            "Caixa": 2530,
+            "Peças": 10,
+            "Itens": [
+                "sku-1031"
+            ]
+        },
+        {
+            "Caixa": 2531,
+            "Peças": 7,
+            "Itens": [
+                "sku-1105"
+            ]
+        },
+        {
+            "Caixa": 2532,
+            "Peças": 7,
+            "Itens": [
+                "sku-1105"
+            ]
+        },
+        {
+            "Caixa": 2533,
+            "Peças": 36,
+            "Itens": [
+                "sku-1106",
+                "sku-1107",
+                "sku-1108",
+                "sku-1109"
+            ]
+        },
+        {
+            "Caixa": 2534,
+            "Peças": 10,
+            "Itens": [
+                "sku-1110"
+            ]
+        },
+        {
+            "Caixa": 2535,
+            "Peças": 44,
+            "Itens": [
+                "sku-1111",
+                "sku-1110",
+                "sku-1112",
+                "sku-1113"
+            ]
+        },
+        {
+            "Caixa": 2536,
+            "Peças": 18,
+            "Itens": [
+                "sku-1114",
+                "sku-1115"
+            ]
+        },
+        {
+            "Caixa": 2537,
+            "Peças": 36,
+            "Itens": [
+                "sku-1116",
+                "sku-0938"
+            ]
+        },
+        {
+            "Caixa": 2538,
+            "Peças": 35,
+            "Itens": [
+                "sku-1117",
+                "sku-1118",
+                "sku-1119"
+            ]
+        },
+        {
+            "Caixa": 2539,
+            "Peças": 20,
+            "Itens": [
+                "sku-1120",
+                "sku-1121"
+            ]
+        },
+        {
+            "Caixa": 2540,
+            "Peças": 12,
+            "Itens": [
+                "sku-0419"
+            ]
+        },
+        {
+            "Caixa": 2541,
+            "Peças": 3,
+            "Itens": [
+                "sku-0419"
+            ]
+        },
+        {
+            "Caixa": 2542,
+            "Peças": 11,
+            "Itens": [
+                "sku-1122"
+            ]
+        },
+        {
+            "Caixa": 2543,
+            "Peças": 52,
+            "Itens": [
+                "sku-1123",
+                "sku-1124",
+                "sku-1125"
+            ]
+        },
+        {
+            "Caixa": 2544,
+            "Peças": 12,
+            "Itens": [
+                "sku-1126",
+                "sku-1127"
+            ]
+        },
+        {
+            "Caixa": 2545,
+            "Peças": 34,
+            "Itens": [
+                "sku-1128",
+                "sku-1129",
+                "sku-1130"
+            ]
+        },
+        {
+            "Caixa": 2546,
+            "Peças": 34,
+            "Itens": [
+                "sku-0282",
+                "sku-1131"
+            ]
+        },
+        {
+            "Caixa": 2547,
+            "Peças": 38,
+            "Itens": [
+                "sku-1132",
+                "sku-1133"
+            ]
+        },
+        {
+            "Caixa": 2548,
+            "Peças": 8,
+            "Itens": [
+                "sku-1134"
+            ]
+        },
+        {
+            "Caixa": 2549,
+            "Peças": 9,
+            "Itens": [
+                "sku-1135"
+            ]
+        },
+        {
+            "Caixa": 2550,
+            "Peças": 9,
+            "Itens": [
+                "sku-1135"
+            ]
+        },
+        {
+            "Caixa": 2551,
+            "Peças": 9,
+            "Itens": [
+                "sku-1135"
+            ]
+        },
+        {
+            "Caixa": 2552,
+            "Peças": 18,
+            "Itens": [
+                "sku-1136",
+                "sku-1108"
+            ]
+        },
+        {
+            "Caixa": 2553,
+            "Peças": 8,
+            "Itens": [
+                "sku-1137"
+            ]
+        },
+        {
+            "Caixa": 2554,
+            "Peças": 26,
+            "Itens": [
+                "sku-0223",
+                "sku-0524",
+                "sku-1138"
+            ]
+        },
+        {
+            "Caixa": 2555,
+            "Peças": 32,
+            "Itens": [
+                "sku-1139",
+                "sku-1140"
+            ]
+        },
+        {
+            "Caixa": 2556,
+            "Peças": 19,
+            "Itens": [
+                "sku-1141",
+                "sku-1142",
+                "sku-1143"
+            ]
+        },
+        {
+            "Caixa": 2557,
+            "Peças": 55,
+            "Itens": [
+                "sku-1106",
+                "sku-1144",
+                "sku-1145",
+                "sku-1146",
+                "sku-1147"
+            ]
+        },
+        {
+            "Caixa": 2558,
+            "Peças": 6,
+            "Itens": [
+                "sku-1148"
+            ]
+        },
+        {
+            "Caixa": 2559,
+            "Peças": 16,
+            "Itens": [
+                "sku-1149"
+            ]
+        },
+        {
+            "Caixa": 2560,
+            "Peças": 7,
+            "Itens": [
+                "sku-1149",
+                "sku-0048"
+            ]
+        },
+        {
+            "Caixa": 2561,
+            "Peças": 27,
+            "Itens": [
+                "sku-1150",
+                "sku-1151"
+            ]
+        },
+        {
+            "Caixa": 2562,
+            "Peças": 5,
+            "Itens": [
+                "sku-1152"
+            ]
+        },
+        {
+            "Caixa": 2563,
+            "Peças": 5,
+            "Itens": [
+                "sku-1152"
+            ]
+        },
+        {
+            "Caixa": 2564,
+            "Peças": 5,
+            "Itens": [
+                "sku-1152"
+            ]
+        },
+        {
+            "Caixa": 2565,
+            "Peças": 5,
+            "Itens": [
+                "sku-1152"
+            ]
+        },
+        {
+            "Caixa": 2566,
+            "Peças": 38,
+            "Itens": [
+                "sku-1153",
+                "sku-1154"
+            ]
+        },
+        {
+            "Caixa": 2567,
+            "Peças": 9,
+            "Itens": [
+                "sku-1155"
+            ]
+        },
+        {
+            "Caixa": 2568,
+            "Peças": 64,
+            "Itens": [
+                "sku-1156",
+                "sku-1157",
+                "sku-1158",
+                "sku-1159",
+                "sku-1160"
+            ]
+        },
+        {
+            "Caixa": 2569,
+            "Peças": 29,
+            "Itens": [
+                "sku-1161",
+                "sku-1162"
+            ]
+        },
+        {
+            "Caixa": 2570,
+            "Peças": 16,
+            "Itens": [
+                "sku-1163",
+                "sku-1164"
+            ]
+        },
+        {
+            "Caixa": 2571,
+            "Peças": 25,
+            "Itens": [
+                "sku-1165",
+                "sku-1164"
+            ]
+        },
+        {
+            "Caixa": 2572,
+            "Peças": 41,
+            "Itens": [
+                "sku-1166",
+                "sku-1167",
+                "sku-1168"
+            ]
+        },
+        {
+            "Caixa": 2573,
+            "Peças": 43,
+            "Itens": [
+                "sku-1169",
+                "sku-1170"
+            ]
+        },
+        {
+            "Caixa": 2574,
+            "Peças": 42,
+            "Itens": [
+                "sku-1171",
+                "sku-1172",
+                "sku-1173"
+            ]
+        },
+        {
+            "Caixa": 2575,
+            "Peças": 19,
+            "Itens": [
+                "sku-0545",
+                "sku-1174"
+            ]
+        },
+        {
+            "Caixa": 2576,
+            "Peças": 5,
+            "Itens": [
+                "sku-1174"
+            ]
+        },
+        {
+            "Caixa": 2577,
+            "Peças": 18,
+            "Itens": [
+                "sku-1175"
+            ]
+        },
+        {
+            "Caixa": 2578,
+            "Peças": 39,
+            "Itens": [
+                "sku-1176",
+                "sku-1177",
+                "sku-1178"
+            ]
+        },
+        {
+            "Caixa": 2579,
+            "Peças": 6,
+            "Itens": [
+                "sku-1179"
+            ]
+        },
+        {
+            "Caixa": 2580,
+            "Peças": 29,
+            "Itens": [
+                "sku-1180",
+                "sku-0880"
+            ]
+        },
+        {
+            "Caixa": 2581,
+            "Peças": 77,
+            "Itens": [
+                "sku-1181",
+                "sku-0585",
+                "sku-1182",
+                "sku-1183",
+                "sku-1184",
+                "sku-1185"
+            ]
+        },
+        {
+            "Caixa": 2582,
+            "Peças": 24,
+            "Itens": [
+                "sku-1186",
+                "sku-0991"
+            ]
+        },
+        {
+            "Caixa": 2583,
+            "Peças": 39,
+            "Itens": [
+                "sku-1187",
+                "sku-0755",
+                "sku-1188"
+            ]
+        },
+        {
+            "Caixa": 2584,
+            "Peças": 27,
+            "Itens": [
+                "sku-1189",
+                "sku-1190"
+            ]
+        },
+        {
+            "Caixa": 2585,
+            "Peças": 34,
+            "Itens": [
+                "sku-1191",
+                "sku-1192",
+                "sku-1193"
+            ]
+        },
+        {
+            "Caixa": 2586,
+            "Peças": 8,
+            "Itens": [
+                "sku-0192"
+            ]
+        },
+        {
+            "Caixa": 2587,
+            "Peças": 45,
+            "Itens": [
+                "sku-1194",
+                "sku-1195",
+                "sku-1196"
+            ]
+        },
+        {
+            "Caixa": 2588,
+            "Peças": 22,
+            "Itens": [
+                "sku-0563",
+                "sku-1197"
+            ]
+        },
+        {
+            "Caixa": 2589,
+            "Peças": 59,
+            "Itens": [
+                "sku-1198",
+                "sku-0745",
+                "sku-1199",
+                "sku-1200",
+                "sku-1201"
+            ]
+        },
+        {
+            "Caixa": 2590,
+            "Peças": 48,
+            "Itens": [
+                "sku-0438",
+                "sku-1202",
+                "sku-1203",
+                "sku-1204"
+            ]
+        },
+        {
+            "Caixa": 2591,
+            "Peças": 15,
+            "Itens": [
+                "sku-0090"
+            ]
+        },
+        {
+            "Caixa": 2592,
+            "Peças": 8,
+            "Itens": [
+                "sku-0090",
+                "sku-1205"
+            ]
+        },
+        {
+            "Caixa": 2593,
+            "Peças": 12,
+            "Itens": [
+                "sku-1206"
+            ]
+        },
+        {
+            "Caixa": 2594,
+            "Peças": 11,
+            "Itens": [
+                "sku-1206",
+                "sku-1207"
+            ]
+        },
+        {
+            "Caixa": 2595,
+            "Peças": 12,
+            "Itens": [
+                "sku-1208"
+            ]
+        },
+        {
+            "Caixa": 2596,
+            "Peças": 20,
+            "Itens": [
+                "sku-1209"
+            ]
+        },
+        {
+            "Caixa": 2597,
+            "Peças": 34,
+            "Itens": [
+                "sku-1210",
+                "sku-1211",
+                "sku-1212",
+                "sku-0716"
+            ]
+        },
+        {
+            "Caixa": 2598,
+            "Peças": 5,
+            "Itens": [
+                "sku-1213"
+            ]
+        },
+        {
+            "Caixa": 2599,
+            "Peças": 21,
+            "Itens": [
+                "sku-1214",
+                "sku-1215"
+            ]
+        },
+        {
+            "Caixa": 2600,
+            "Peças": 45,
+            "Itens": [
+                "sku-1216",
+                "sku-1217",
+                "sku-0343",
+                "sku-1218",
+                "sku-1219"
+            ]
+        },
+        {
+            "Caixa": 2601,
+            "Peças": 19,
+            "Itens": [
+                "sku-1220",
+                "sku-1221"
+            ]
+        },
+        {
+            "Caixa": 2602,
+            "Peças": 27,
+            "Itens": [
+                "sku-1222"
+            ]
+        },
+        {
+            "Caixa": 2603,
+            "Peças": 12,
+            "Itens": [
+                "sku-1223"
+            ]
+        },
+        {
+            "Caixa": 2604,
+            "Peças": 6,
+            "Itens": [
+                "sku-1223"
+            ]
+        },
+        {
+            "Caixa": 2605,
+            "Peças": 14,
+            "Itens": [
+                "sku-1224",
+                "sku-1225"
+            ]
+        },
+        {
+            "Caixa": 2606,
+            "Peças": 29,
+            "Itens": [
+                "sku-1226",
+                "sku-1227"
+            ]
+        },
+        {
+            "Caixa": 2607,
+            "Peças": 14,
+            "Itens": [
+                "sku-0992",
+                "sku-1228"
+            ]
+        },
+        {
+            "Caixa": 2608,
+            "Peças": 1,
+            "Itens": [
+                "sku-1229"
+            ]
+        },
+        {
+            "Caixa": 2609,
+            "Peças": 27,
+            "Itens": [
+                "sku-1230",
+                "sku-1231"
+            ]
+        },
+        {
+            "Caixa": 2610,
+            "Peças": 49,
+            "Itens": [
+                "sku-0690",
+                "sku-1232",
+                "sku-1233"
+            ]
+        },
+        {
+            "Caixa": 2611,
+            "Peças": 15,
+            "Itens": [
+                "sku-1234",
+                "sku-0435",
+                "sku-1235"
+            ]
+        },
+        {
+            "Caixa": 2612,
+            "Peças": 30,
+            "Itens": [
+                "sku-1236",
+                "sku-1237",
+                "sku-1238"
+            ]
+        },
+        {
+            "Caixa": 2613,
+            "Peças": 9,
+            "Itens": [
+                "sku-1239"
+            ]
+        },
+        {
+            "Caixa": 2614,
+            "Peças": 26,
+            "Itens": [
+                "sku-0537",
+                "sku-1240"
+            ]
+        },
+        {
+            "Caixa": 2615,
+            "Peças": 39,
+            "Itens": [
+                "sku-1241",
+                "sku-1227"
+            ]
+        },
+        {
+            "Caixa": 2616,
+            "Peças": 15,
+            "Itens": [
+                "sku-1242",
+                "sku-1243"
+            ]
+        },
+        {
+            "Caixa": 2617,
+            "Peças": 22,
+            "Itens": [
+                "sku-1244",
+                "sku-1245"
+            ]
+        },
+        {
+            "Caixa": 2618,
+            "Peças": 17,
+            "Itens": [
+                "sku-1246",
+                "sku-1247"
+            ]
+        },
+        {
+            "Caixa": 2619,
+            "Peças": 32,
+            "Itens": [
+                "sku-1248",
+                "sku-1249",
+                "sku-1250",
+                "sku-1251"
+            ]
+        },
+        {
+            "Caixa": 2620,
+            "Peças": 30,
+            "Itens": [
+                "sku-1252",
+                "sku-0623",
+                "sku-1253"
+            ]
+        },
+        {
+            "Caixa": 2621,
+            "Peças": 48,
+            "Itens": [
+                "sku-1254",
+                "sku-1255",
+                "sku-1256"
+            ]
+        },
+        {
+            "Caixa": 2622,
+            "Peças": 64,
+            "Itens": [
+                "sku-1257",
+                "sku-1258",
+                "sku-1259",
+                "sku-1260",
+                "sku-0611",
+                "sku-1261"
+            ]
+        },
+        {
+            "Caixa": 2623,
+            "Peças": 23,
+            "Itens": [
+                "sku-0774",
+                "sku-1262"
+            ]
+        },
+        {
+            "Caixa": 2624,
+            "Peças": 18,
+            "Itens": [
+                "sku-0628",
+                "sku-1263"
+            ]
+        },
+        {
+            "Caixa": 2625,
+            "Peças": 64,
+            "Itens": [
+                "sku-0468",
+                "sku-1264",
+                "sku-1265",
+                "sku-1266"
+            ]
+        },
+        {
+            "Caixa": 2626,
+            "Peças": 33,
+            "Itens": [
+                "sku-1267",
+                "sku-1268",
+                "sku-0929"
+            ]
+        },
+        {
+            "Caixa": 2627,
+            "Peças": 44,
+            "Itens": [
+                "sku-1269",
+                "sku-1270",
+                "sku-1271"
+            ]
+        },
+        {
+            "Caixa": 2628,
+            "Peças": 10,
+            "Itens": [
+                "sku-0213"
+            ]
+        },
+        {
+            "Caixa": 2629,
+            "Peças": 15,
+            "Itens": [
+                "sku-1272"
+            ]
+        },
+        {
+            "Caixa": 2630,
+            "Peças": 25,
+            "Itens": [
+                "sku-1273",
+                "sku-0098",
+                "sku-0645"
+            ]
+        },
+        {
+            "Caixa": 2631,
+            "Peças": 80,
+            "Itens": [
+                "sku-1274",
+                "sku-1275",
+                "sku-1276",
+                "sku-1089",
+                "sku-1277"
+            ]
+        },
+        {
+            "Caixa": 2632,
+            "Peças": 62,
+            "Itens": [
+                "sku-1278",
+                "sku-1279",
+                "sku-1280",
+                "sku-0337"
+            ]
+        },
+        {
+            "Caixa": 2633,
+            "Peças": 10,
+            "Itens": [
+                "sku-1281"
+            ]
+        },
+        {
+            "Caixa": 2634,
+            "Peças": 24,
+            "Itens": [
+                "sku-1282"
+            ]
+        },
+        {
+            "Caixa": 2635,
+            "Peças": 56,
+            "Itens": [
+                "sku-1283",
+                "sku-1284",
+                "sku-1285",
+                "sku-1286"
+            ]
+        },
+        {
+            "Caixa": 2636,
+            "Peças": 30,
+            "Itens": [
+                "sku-1287",
+                "sku-1288",
+                "sku-0850"
+            ]
+        },
+        {
+            "Caixa": 2637,
+            "Peças": 39,
+            "Itens": [
+                "sku-1289",
+                "sku-1290",
+                "sku-1291",
+                "sku-1292"
+            ]
+        },
+        {
+            "Caixa": 2638,
+            "Peças": 29,
+            "Itens": [
+                "sku-1293",
+                "sku-0855"
+            ]
+        },
+        {
+            "Caixa": 2639,
+            "Peças": 20,
+            "Itens": [
+                "sku-1294",
+                "sku-1295",
+                "sku-1296"
+            ]
+        },
+        {
+            "Caixa": 2640,
+            "Peças": 18,
+            "Itens": [
+                "sku-1297",
+                "sku-1298"
+            ]
+        },
+        {
+            "Caixa": 2641,
+            "Peças": 26,
+            "Itens": [
+                "sku-1299",
+                "sku-1185"
+            ]
+        },
+        {
+            "Caixa": 2642,
+            "Peças": 57,
+            "Itens": [
+                "sku-1300",
+                "sku-1301",
+                "sku-1302"
+            ]
+        },
+        {
+            "Caixa": 2643,
+            "Peças": 35,
+            "Itens": [
+                "sku-1303",
+                "sku-1304"
+            ]
+        },
+        {
+            "Caixa": 2644,
+            "Peças": 3,
+            "Itens": [
+                "sku-1305"
+            ]
+        },
+        {
+            "Caixa": 2645,
+            "Peças": 56,
+            "Itens": [
+                "sku-1306",
+                "sku-1307",
+                "sku-0890",
+                "sku-1308"
+            ]
+        },
+        {
+            "Caixa": 2646,
+            "Peças": 49,
+            "Itens": [
+                "sku-1309",
+                "sku-1310",
+                "sku-1311"
+            ]
+        },
+        {
+            "Caixa": 2647,
+            "Peças": 30,
+            "Itens": [
+                "sku-1312",
+                "sku-1313",
+                "sku-1314"
+            ]
+        },
+        {
+            "Caixa": 2648,
+            "Peças": 23,
+            "Itens": [
+                "sku-1315",
+                "sku-1316"
+            ]
+        },
+        {
+            "Caixa": 2649,
+            "Peças": 5,
+            "Itens": [
+                "sku-1317"
+            ]
+        },
+        {
+            "Caixa": 2650,
+            "Peças": 5,
+            "Itens": [
+                "sku-1317"
+            ]
+        },
+        {
+            "Caixa": 2651,
+            "Peças": 49,
+            "Itens": [
+                "sku-1318",
+                "sku-1319",
+                "sku-1320"
+            ]
+        },
+        {
+            "Caixa": 2652,
+            "Peças": 4,
+            "Itens": [
+                "sku-1321"
+            ]
+        },
+        {
+            "Caixa": 2653,
+            "Peças": 9,
+            "Itens": [
+                "sku-1322",
+                "sku-1323"
+            ]
+        },
+        {
+            "Caixa": 2654,
+            "Peças": 13,
+            "Itens": [
+                "sku-1324"
+            ]
+        },
+        {
+            "Caixa": 2655,
+            "Peças": 11,
+            "Itens": [
+                "sku-1325"
+            ]
+        },
+        {
+            "Caixa": 2656,
+            "Peças": 20,
+            "Itens": [
+                "sku-1326",
+                "sku-1327"
+            ]
+        },
+        {
+            "Caixa": 2657,
+            "Peças": 5,
+            "Itens": [
+                "sku-1328"
+            ]
+        },
+        {
+            "Caixa": 2658,
+            "Peças": 24,
+            "Itens": [
+                "sku-1329"
+            ]
+        },
+        {
+            "Caixa": 2659,
+            "Peças": 24,
+            "Itens": [
+                "sku-1330",
+                "sku-1331",
+                "sku-1332",
+                "sku-1333"
+            ]
+        },
+        {
+            "Caixa": 2660,
+            "Peças": 20,
+            "Itens": [
+                "sku-1334"
+            ]
+        },
+        {
+            "Caixa": 2661,
+            "Peças": 69,
+            "Itens": [
+                "sku-1335",
+                "sku-1336",
+                "sku-1337",
+                "sku-1338",
+                "sku-0416",
+                "sku-1339"
+            ]
+        },
+        {
+            "Caixa": 2662,
+            "Peças": 8,
+            "Itens": [
+                "sku-1340",
+                "sku-1341"
+            ]
+        },
+        {
+            "Caixa": 2663,
+            "Peças": 20,
+            "Itens": [
+                "sku-0095",
+                "sku-1342",
+                "sku-0454"
+            ]
+        },
+        {
+            "Caixa": 2664,
+            "Peças": 4,
+            "Itens": [
+                "sku-1343"
+            ]
+        },
+        {
+            "Caixa": 2665,
+            "Peças": 12,
+            "Itens": [
+                "sku-0906"
+            ]
+        },
+        {
+            "Caixa": 2666,
+            "Peças": 4,
+            "Itens": [
+                "sku-0906"
+            ]
+        },
+        {
+            "Caixa": 2667,
+            "Peças": 20,
+            "Itens": [
+                "sku-1344"
+            ]
+        },
+        {
+            "Caixa": 2668,
+            "Peças": 2,
+            "Itens": [
+                "sku-1345"
+            ]
+        },
+        {
+            "Caixa": 2669,
+            "Peças": 36,
+            "Itens": [
+                "sku-1346",
+                "sku-0440",
+                "sku-1347",
+                "sku-1348",
+                "sku-1349"
+            ]
+        },
+        {
+            "Caixa": 2670,
+            "Peças": 53,
+            "Itens": [
+                "sku-1350",
+                "sku-1351",
+                "sku-1352",
+                "sku-1353"
+            ]
+        },
+        {
+            "Caixa": 2671,
+            "Peças": 6,
+            "Itens": [
+                "sku-1354"
+            ]
+        },
+        {
+            "Caixa": 2672,
+            "Peças": 3,
+            "Itens": [
+                "sku-1354"
+            ]
+        },
+        {
+            "Caixa": 2673,
+            "Peças": 20,
+            "Itens": [
+                "sku-1355"
+            ]
+        },
+        {
+            "Caixa": 2674,
+            "Peças": 27,
+            "Itens": [
+                "sku-1356",
+                "sku-1357"
+            ]
+        },
+        {
+            "Caixa": 2675,
+            "Peças": 12,
+            "Itens": [
+                "sku-0349"
+            ]
+        },
+        {
+            "Caixa": 2676,
+            "Peças": 8,
+            "Itens": [
+                "sku-0349",
+                "sku-1358"
+            ]
+        },
+        {
+            "Caixa": 2677,
+            "Peças": 6,
+            "Itens": [
+                "sku-1359"
+            ]
+        },
+        {
+            "Caixa": 2678,
+            "Peças": 6,
+            "Itens": [
+                "sku-1359"
+            ]
+        },
+        {
+            "Caixa": 2679,
+            "Peças": 31,
+            "Itens": [
+                "sku-1360",
+                "sku-1361",
+                "sku-1362"
+            ]
+        },
+        {
+            "Caixa": 2680,
+            "Peças": 49,
+            "Itens": [
+                "sku-1363",
+                "sku-0930",
+                "sku-1364"
+            ]
+        },
+        {
+            "Caixa": 2681,
+            "Peças": 23,
+            "Itens": [
+                "sku-1365",
+                "sku-1366"
+            ]
+        },
+        {
+            "Caixa": 2682,
+            "Peças": 47,
+            "Itens": [
+                "sku-1227",
+                "sku-1367",
+                "sku-1368",
+                "sku-1369"
+            ]
+        },
+        {
+            "Caixa": 2683,
+            "Peças": 6,
+            "Itens": [
+                "sku-1370"
+            ]
+        },
+        {
+            "Caixa": 2684,
+            "Peças": 38,
+            "Itens": [
+                "sku-1371",
+                "sku-1372",
+                "sku-1373"
+            ]
+        },
+        {
+            "Caixa": 2685,
+            "Peças": 31,
+            "Itens": [
+                "sku-1374",
+                "sku-1375",
+                "sku-1376"
+            ]
+        },
+        {
+            "Caixa": 2686,
+            "Peças": 24,
+            "Itens": [
+                "sku-1377",
+                "sku-1378",
+                "sku-1379"
+            ]
+        },
+        {
+            "Caixa": 2687,
+            "Peças": 12,
+            "Itens": [
+                "sku-1380"
+            ]
+        },
+        {
+            "Caixa": 2688,
+            "Peças": 28,
+            "Itens": [
+                "sku-1381",
+                "sku-1382"
+            ]
+        },
+        {
+            "Caixa": 2689,
+            "Peças": 35,
+            "Itens": [
+                "sku-0580",
+                "sku-1383",
+                "sku-1384"
+            ]
+        },
+        {
+            "Caixa": 2690,
+            "Peças": 34,
+            "Itens": [
+                "sku-1385",
+                "sku-1386"
+            ]
+        },
+        {
+            "Caixa": 2691,
+            "Peças": 61,
+            "Itens": [
+                "sku-1387",
+                "sku-1388",
+                "sku-1389",
+                "sku-1390"
+            ]
+        },
+        {
+            "Caixa": 2692,
+            "Peças": 18,
+            "Itens": [
+                "sku-1391"
+            ]
+        },
+        {
+            "Caixa": 2693,
+            "Peças": 53,
+            "Itens": [
+                "sku-1392",
+                "sku-1393",
+                "sku-1394",
+                "sku-1395"
+            ]
+        },
+        {
+            "Caixa": 2694,
+            "Peças": 42,
+            "Itens": [
+                "sku-1396",
+                "sku-1397"
+            ]
+        },
+        {
+            "Caixa": 2695,
+            "Peças": 46,
+            "Itens": [
+                "sku-1398",
+                "sku-1399",
+                "sku-1400",
+                "sku-1401"
+            ]
+        },
+        {
+            "Caixa": 2696,
+            "Peças": 11,
+            "Itens": [
+                "sku-1402"
+            ]
+        },
+        {
+            "Caixa": 2697,
+            "Peças": 41,
+            "Itens": [
+                "sku-1403",
+                "sku-0257",
+                "sku-1404"
+            ]
+        },
+        {
+            "Caixa": 2698,
+            "Peças": 18,
+            "Itens": [
+                "sku-1405"
+            ]
+        },
+        {
+            "Caixa": 2699,
+            "Peças": 38,
+            "Itens": [
+                "sku-1406",
+                "sku-1407",
+                "sku-0928"
+            ]
+        },
+        {
+            "Caixa": 2700,
+            "Peças": 67,
+            "Itens": [
+                "sku-1408",
+                "sku-1409",
+                "sku-0405",
+                "sku-1410",
+                "sku-1411"
+            ]
+        },
+        {
+            "Caixa": 2701,
+            "Peças": 31,
+            "Itens": [
+                "sku-1412",
+                "sku-0298",
+                "sku-1413"
+            ]
+        },
+        {
+            "Caixa": 2702,
+            "Peças": 42,
+            "Itens": [
+                "sku-1414",
+                "sku-1415"
+            ]
+        },
+        {
+            "Caixa": 2703,
+            "Peças": 12,
+            "Itens": [
+                "sku-1416"
+            ]
+        },
+        {
+            "Caixa": 2704,
+            "Peças": 16,
+            "Itens": [
+                "sku-1417",
+                "sku-1418"
+            ]
+        },
+        {
+            "Caixa": 2705,
+            "Peças": 26,
+            "Itens": [
+                "sku-1419",
+                "sku-1420"
+            ]
+        },
+        {
+            "Caixa": 2706,
+            "Peças": 36,
+            "Itens": [
+                "sku-1421",
+                "sku-1422",
+                "sku-1423"
+            ]
+        },
+        {
+            "Caixa": 2707,
+            "Peças": 16,
+            "Itens": [
+                "sku-0132"
+            ]
+        },
+        {
+            "Caixa": 2708,
+            "Peças": 13,
+            "Itens": [
+                "sku-1424",
+                "sku-1425"
+            ]
+        },
+        {
+            "Caixa": 2709,
+            "Peças": 48,
+            "Itens": [
+                "sku-1426",
+                "sku-1427",
+                "sku-1428",
+                "sku-1429"
+            ]
+        },
+        {
+            "Caixa": 2710,
+            "Peças": 39,
+            "Itens": [
+                "sku-1430",
+                "sku-1159",
+                "sku-1431"
+            ]
+        },
+        {
+            "Caixa": 2711,
+            "Peças": 22,
+            "Itens": [
+                "sku-1432",
+                "sku-0056"
+            ]
+        },
+        {
+            "Caixa": 2712,
+            "Peças": 27,
+            "Itens": [
+                "sku-1433",
+                "sku-1434",
+                "sku-1435"
+            ]
+        },
+        {
+            "Caixa": 2713,
+            "Peças": 38,
+            "Itens": [
+                "sku-1436",
+                "sku-1437",
+                "sku-1438"
+            ]
+        },
+        {
+            "Caixa": 2714,
+            "Peças": 22,
+            "Itens": [
+                "sku-1439",
+                "sku-1440"
+            ]
+        },
+        {
+            "Caixa": 2715,
+            "Peças": 49,
+            "Itens": [
+                "sku-1441",
+                "sku-1442",
+                "sku-1443"
+            ]
+        },
+        {
+            "Caixa": 2716,
+            "Peças": 10,
+            "Itens": [
+                "sku-1444"
+            ]
+        },
+        {
+            "Caixa": 2717,
+            "Peças": 39,
+            "Itens": [
+                "sku-0396",
+                "sku-1445",
+                "sku-1446",
+                "sku-1447"
+            ]
+        },
+        {
+            "Caixa": 2718,
+            "Peças": 70,
+            "Itens": [
+                "sku-1448",
+                "sku-1028",
+                "sku-0353",
+                "sku-1449",
+                "sku-1450"
+            ]
+        },
+        {
+            "Caixa": 2719,
+            "Peças": 30,
+            "Itens": [
+                "sku-1451",
+                "sku-1452"
+            ]
+        },
+        {
+            "Caixa": 2720,
+            "Peças": 27,
+            "Itens": [
+                "sku-1453",
+                "sku-1454"
+            ]
+        },
+        {
+            "Caixa": 2721,
+            "Peças": 12,
+            "Itens": [
+                "sku-0388"
+            ]
+        },
+        {
+            "Caixa": 2722,
+            "Peças": 27,
+            "Itens": [
+                "sku-1455",
+                "sku-1456"
+            ]
+        },
+        {
+            "Caixa": 2723,
+            "Peças": 12,
+            "Itens": [
+                "sku-0641",
+                "sku-1457"
+            ]
+        },
+        {
+            "Caixa": 2724,
+            "Peças": 8,
+            "Itens": [
+                "sku-1458"
+            ]
+        },
+        {
+            "Caixa": 2725,
+            "Peças": 8,
+            "Itens": [
+                "sku-0632"
+            ]
+        },
+        {
+            "Caixa": 2726,
+            "Peças": 18,
+            "Itens": [
+                "sku-0632"
+            ]
+        },
+        {
+            "Caixa": 2727,
+            "Peças": 21,
+            "Itens": [
+                "sku-1112"
+            ]
+        },
+        {
+            "Caixa": 2728,
+            "Peças": 14,
+            "Itens": [
+                "sku-0765"
+            ]
+        },
+        {
+            "Caixa": 2729,
+            "Peças": 2,
+            "Itens": [
+                "sku-0049"
+            ]
+        },
+        {
+            "Caixa": 2730,
+            "Peças": 18,
+            "Itens": [
+                "sku-1459",
+                "sku-1460"
+            ]
+        },
+        {
+            "Caixa": 2731,
+            "Peças": 6,
+            "Itens": [
+                "sku-1299"
+            ]
+        },
+        {
+            "Caixa": 2732,
+            "Peças": 20,
+            "Itens": [
+                "sku-1461"
+            ]
+        },
+        {
+            "Caixa": 2733,
+            "Peças": 15,
+            "Itens": [
+                "sku-1462"
+            ]
+        },
+        {
+            "Caixa": 2734,
+            "Peças": 16,
+            "Itens": [
+                "sku-1463",
+                "sku-1464"
+            ]
+        },
+        {
+            "Caixa": 2735,
+            "Peças": 32,
+            "Itens": [
+                "sku-1465",
+                "sku-0530"
+            ]
+        },
+        {
+            "Caixa": 2736,
+            "Peças": 10,
+            "Itens": [
+                "sku-1466"
+            ]
+        },
+        {
+            "Caixa": 2737,
+            "Peças": 14,
+            "Itens": [
+                "sku-1467"
+            ]
+        },
+        {
+            "Caixa": 2738,
+            "Peças": 4,
+            "Itens": [
+                "sku-1468"
+            ]
+        },
+        {
+            "Caixa": 2739,
+            "Peças": 56,
+            "Itens": [
+                "sku-1469",
+                "sku-0535",
+                "sku-1470",
+                "sku-1471"
+            ]
+        },
+        {
+            "Caixa": 2740,
+            "Peças": 41,
+            "Itens": [
+                "sku-1472",
+                "sku-0754",
+                "sku-1473",
+                "sku-1474",
+                "sku-1475"
+            ]
+        },
+        {
+            "Caixa": 2741,
+            "Peças": 54,
+            "Itens": [
+                "sku-1476",
+                "sku-1477",
+                "sku-1478"
+            ]
+        },
+        {
+            "Caixa": 2742,
+            "Peças": 8,
+            "Itens": [
+                "sku-1078"
+            ]
+        },
+        {
+            "Caixa": 2743,
+            "Peças": 6,
+            "Itens": [
+                "sku-1479"
+            ]
+        },
+        {
+            "Caixa": 2744,
+            "Peças": 26,
+            "Itens": [
+                "sku-1480",
+                "sku-1481"
+            ]
+        },
+        {
+            "Caixa": 2745,
+            "Peças": 8,
+            "Itens": [
+                "sku-1482"
+            ]
+        },
+        {
+            "Caixa": 2746,
+            "Peças": 28,
+            "Itens": [
+                "sku-1264",
+                "sku-0893",
+                "sku-1483"
+            ]
+        },
+        {
+            "Caixa": 2747,
+            "Peças": 18,
+            "Itens": [
+                "sku-1484"
+            ]
+        },
+        {
+            "Caixa": 2748,
+            "Peças": 68,
+            "Itens": [
+                "sku-1485",
+                "sku-1486",
+                "sku-1487",
+                "sku-1488",
+                "sku-1489"
+            ]
+        },
+        {
+            "Caixa": 2749,
+            "Peças": 19,
+            "Itens": [
+                "sku-1490"
+            ]
+        },
+        {
+            "Caixa": 2750,
+            "Peças": 26,
+            "Itens": [
+                "sku-1491",
+                "sku-1492"
+            ]
+        },
+        {
+            "Caixa": 2751,
+            "Peças": 50,
+            "Itens": [
+                "sku-1493",
+                "sku-1494",
+                "sku-1495"
+            ]
+        },
+        {
+            "Caixa": 2752,
+            "Peças": 22,
+            "Itens": [
+                "sku-1496",
+                "sku-1497"
+            ]
+        },
+        {
+            "Caixa": 2753,
+            "Peças": 30,
+            "Itens": [
+                "sku-1498",
+                "sku-1499"
+            ]
+        },
+        {
+            "Caixa": 2754,
+            "Peças": 22,
+            "Itens": [
+                "sku-1500",
+                "sku-1501"
+            ]
+        },
+        {
+            "Caixa": 2755,
+            "Peças": 30,
+            "Itens": [
+                "sku-1502",
+                "sku-0964"
+            ]
+        },
+        {
+            "Caixa": 2756,
+            "Peças": 40,
+            "Itens": [
+                "sku-1503",
+                "sku-1504"
+            ]
+        },
+        {
+            "Caixa": 2757,
+            "Peças": 35,
+            "Itens": [
+                "sku-1505",
+                "sku-1506",
+                "sku-1507",
+                "sku-1508"
+            ]
+        },
+        {
+            "Caixa": 2758,
+            "Peças": 36,
+            "Itens": [
+                "sku-1509",
+                "sku-0820"
+            ]
+        },
+        {
+            "Caixa": 2759,
+            "Peças": 29,
+            "Itens": [
+                "sku-1510",
+                "sku-1511",
+                "sku-1512"
+            ]
+        },
+        {
+            "Caixa": 2760,
+            "Peças": 7,
+            "Itens": [
+                "sku-1105"
+            ]
+        },
+        {
+            "Caixa": 2761,
+            "Peças": 17,
+            "Itens": [
+                "sku-1513",
+                "sku-1105"
+            ]
+        },
+        {
+            "Caixa": 2762,
+            "Peças": 5,
+            "Itens": [
+                "sku-1514"
+            ]
+        },
+        {
+            "Caixa": 2763,
+            "Peças": 3,
+            "Itens": [
+                "sku-1515"
+            ]
+        },
+        {
+            "Caixa": 2764,
+            "Peças": 47,
+            "Itens": [
+                "sku-1516",
+                "sku-0081",
+                "sku-1517"
+            ]
+        },
+        {
+            "Caixa": 2765,
+            "Peças": 17,
+            "Itens": [
+                "sku-1518",
+                "sku-0947"
+            ]
+        },
+        {
+            "Caixa": 2766,
+            "Peças": 32,
+            "Itens": [
+                "sku-1519",
+                "sku-1520"
+            ]
+        },
+        {
+            "Caixa": 2767,
+            "Peças": 28,
+            "Itens": [
+                "sku-1521",
+                "sku-1522"
+            ]
+        },
+        {
+            "Caixa": 2768,
+            "Peças": 6,
+            "Itens": [
+                "sku-1523"
+            ]
+        },
+        {
+            "Caixa": 2769,
+            "Peças": 29,
+            "Itens": [
+                "sku-1100",
+                "sku-1524"
+            ]
+        },
+        {
+            "Caixa": 2770,
+            "Peças": 47,
+            "Itens": [
+                "sku-1525",
+                "sku-1526",
+                "sku-0480",
+                "sku-1527"
+            ]
+        },
+        {
+            "Caixa": 2771,
+            "Peças": 37,
+            "Itens": [
+                "sku-1528",
+                "sku-1529"
+            ]
+        },
+        {
+            "Caixa": 2772,
+            "Peças": 44,
+            "Itens": [
+                "sku-0251",
+                "sku-1530",
+                "sku-1531"
+            ]
+        },
+        {
+            "Caixa": 2773,
+            "Peças": 10,
+            "Itens": [
+                "sku-1532"
+            ]
+        },
+        {
+            "Caixa": 2774,
+            "Peças": 40,
+            "Itens": [
+                "sku-1533",
+                "sku-0492",
+                "sku-1534"
+            ]
+        },
+        {
+            "Caixa": 2775,
+            "Peças": 9,
+            "Itens": [
+                "sku-1535"
+            ]
+        },
+        {
+            "Caixa": 2776,
+            "Peças": 9,
+            "Itens": [
+                "sku-0935"
+            ]
+        },
+        {
+            "Caixa": 2777,
+            "Peças": 30,
+            "Itens": [
+                "sku-1536",
+                "sku-1537",
+                "sku-1538"
+            ]
+        },
+        {
+            "Caixa": 2778,
+            "Peças": 10,
+            "Itens": [
+                "sku-1539"
+            ]
+        },
+        {
+            "Caixa": 2779,
+            "Peças": 10,
+            "Itens": [
+                "sku-1539"
+            ]
+        },
+        {
+            "Caixa": 2780,
+            "Peças": 20,
+            "Itens": [
+                "sku-1540"
+            ]
+        },
+        {
+            "Caixa": 2781,
+            "Peças": 54,
+            "Itens": [
+                "sku-1408",
+                "sku-1541",
+                "sku-1542",
+                "sku-1543"
+            ]
+        },
+        {
+            "Caixa": 2782,
+            "Peças": 12,
+            "Itens": [
+                "sku-0237"
+            ]
+        },
+        {
+            "Caixa": 2783,
+            "Peças": 15,
+            "Itens": [
+                "sku-0377"
+            ]
+        },
+        {
+            "Caixa": 2784,
+            "Peças": 20,
+            "Itens": [
+                "sku-1544"
+            ]
+        },
+        {
+            "Caixa": 2785,
+            "Peças": 40,
+            "Itens": [
+                "sku-0698",
+                "sku-1545"
+            ]
+        },
+        {
+            "Caixa": 2786,
+            "Peças": 19,
+            "Itens": [
+                "sku-1546"
+            ]
+        },
+        {
+            "Caixa": 2787,
+            "Peças": 5,
+            "Itens": [
+                "sku-1547"
+            ]
+        },
+        {
+            "Caixa": 2788,
+            "Peças": 61,
+            "Itens": [
+                "sku-1548",
+                "sku-1549",
+                "sku-1550",
+                "sku-1551"
+            ]
+        },
+        {
+            "Caixa": 2789,
+            "Peças": 14,
+            "Itens": [
+                "sku-1552"
+            ]
+        },
+        {
+            "Caixa": 2790,
+            "Peças": 27,
+            "Itens": [
+                "sku-1553",
+                "sku-1337"
+            ]
+        },
+        {
+            "Caixa": 2791,
+            "Peças": 7,
+            "Itens": [
+                "sku-1554"
+            ]
+        },
+        {
+            "Caixa": 2792,
+            "Peças": 26,
+            "Itens": [
+                "sku-1555",
+                "sku-1556"
+            ]
+        },
+        {
+            "Caixa": 2793,
+            "Peças": 12,
+            "Itens": [
+                "sku-1557"
+            ]
+        },
+        {
+            "Caixa": 2794,
+            "Peças": 4,
+            "Itens": [
+                "sku-1557"
+            ]
+        },
+        {
+            "Caixa": 2795,
+            "Peças": 8,
+            "Itens": [
+                "sku-0192"
+            ]
+        },
+        {
+            "Caixa": 2796,
+            "Peças": 8,
+            "Itens": [
+                "sku-0192"
+            ]
+        },
+        {
+            "Caixa": 2797,
+            "Peças": 18,
+            "Itens": [
+                "sku-1558"
+            ]
+        },
+        {
+            "Caixa": 2798,
+            "Peças": 44,
+            "Itens": [
+                "sku-0509",
+                "sku-1559",
+                "sku-1560"
+            ]
+        },
+        {
+            "Caixa": 2799,
+            "Peças": 44,
+            "Itens": [
+                "sku-1561",
+                "sku-0206"
+            ]
+        },
+        {
+            "Caixa": 2800,
+            "Peças": 33,
+            "Itens": [
+                "sku-1562",
+                "sku-1563"
+            ]
+        },
+        {
+            "Caixa": 2801,
+            "Peças": 10,
+            "Itens": [
+                "sku-1287"
+            ]
+        },
+        {
+            "Caixa": 2802,
+            "Peças": 21,
+            "Itens": [
+                "sku-1564",
+                "sku-1565",
+                "sku-1566"
+            ]
+        },
+        {
+            "Caixa": 2803,
+            "Peças": 12,
+            "Itens": [
+                "sku-1567"
+            ]
+        },
+        {
+            "Caixa": 2804,
+            "Peças": 10,
+            "Itens": [
+                "sku-1568"
+            ]
+        },
+        {
+            "Caixa": 2805,
+            "Peças": 20,
+            "Itens": [
+                "sku-1569"
+            ]
+        },
+        {
+            "Caixa": 2806,
+            "Peças": 15,
+            "Itens": [
+                "sku-1570"
+            ]
+        },
+        {
+            "Caixa": 2807,
+            "Peças": 5,
+            "Itens": [
+                "sku-1570"
+            ]
+        },
+        {
+            "Caixa": 2808,
+            "Peças": 38,
+            "Itens": [
+                "sku-1571",
+                "sku-0138",
+                "sku-1572"
+            ]
+        },
+        {
+            "Caixa": 2809,
+            "Peças": 23,
+            "Itens": [
+                "sku-0291",
+                "sku-1573"
+            ]
+        },
+        {
+            "Caixa": 2810,
+            "Peças": 26,
+            "Itens": [
+                "sku-1574",
+                "sku-1575"
+            ]
+        },
+        {
+            "Caixa": 2811,
+            "Peças": 36,
+            "Itens": [
+                "sku-1576",
+                "sku-1577",
+                "sku-1578"
+            ]
+        },
+        {
+            "Caixa": 2812,
+            "Peças": 39,
+            "Itens": [
+                "sku-1579",
+                "sku-1551",
+                "sku-1580"
+            ]
+        },
+        {
+            "Caixa": 2813,
+            "Peças": 24,
+            "Itens": [
+                "sku-1581",
+                "sku-1582"
+            ]
+        },
+        {
+            "Caixa": 2814,
+            "Peças": 31,
+            "Itens": [
+                "sku-1583",
+                "sku-1584"
+            ]
+        },
+        {
+            "Caixa": 2815,
+            "Peças": 21,
+            "Itens": [
+                "sku-0889",
+                "sku-1585"
+            ]
+        },
+        {
+            "Caixa": 2816,
+            "Peças": 27,
+            "Itens": [
+                "sku-1586"
+            ]
+        },
+        {
+            "Caixa": 2817,
+            "Peças": 32,
+            "Itens": [
+                "sku-1042",
+                "sku-1587",
+                "sku-1588"
+            ]
+        },
+        {
+            "Caixa": 2818,
+            "Peças": 16,
+            "Itens": [
+                "sku-1589"
+            ]
+        },
+        {
+            "Caixa": 2819,
+            "Peças": 49,
+            "Itens": [
+                "sku-1590",
+                "sku-1591",
+                "sku-1592"
+            ]
+        },
+        {
+            "Caixa": 2820,
+            "Peças": 16,
+            "Itens": [
+                "sku-1593",
+                "sku-1594"
+            ]
+        },
+        {
+            "Caixa": 2821,
+            "Peças": 15,
+            "Itens": [
+                "sku-0363"
+            ]
+        },
+        {
+            "Caixa": 2822,
+            "Peças": 4,
+            "Itens": [
+                "sku-1595"
+            ]
+        },
+        {
+            "Caixa": 2823,
+            "Peças": 6,
+            "Itens": [
+                "sku-1596"
+            ]
+        },
+        {
+            "Caixa": 2824,
+            "Peças": 14,
+            "Itens": [
+                "sku-1597"
+            ]
+        },
+        {
+            "Caixa": 2825,
+            "Peças": 7,
+            "Itens": [
+                "sku-1598"
+            ]
+        },
+        {
+            "Caixa": 2826,
+            "Peças": 20,
+            "Itens": [
+                "sku-1599"
+            ]
+        },
+        {
+            "Caixa": 2827,
+            "Peças": 10,
+            "Itens": [
+                "sku-1600",
+                "sku-1601"
+            ]
+        },
+        {
+            "Caixa": 2828,
+            "Peças": 18,
+            "Itens": [
+                "sku-1602"
+            ]
+        },
+        {
+            "Caixa": 2829,
+            "Peças": 10,
+            "Itens": [
+                "sku-0873"
+            ]
+        },
+        {
+            "Caixa": 2830,
+            "Peças": 12,
+            "Itens": [
+                "sku-1603"
+            ]
+        },
+        {
+            "Caixa": 2831,
+            "Peças": 45,
+            "Itens": [
+                "sku-1604",
+                "sku-1605"
+            ]
+        },
+        {
+            "Caixa": 2832,
+            "Peças": 52,
+            "Itens": [
+                "sku-1606",
+                "sku-1607",
+                "sku-1608",
+                "sku-1609"
+            ]
+        },
+        {
+            "Caixa": 2833,
+            "Peças": 2,
+            "Itens": [
+                "sku-1610"
+            ]
+        },
+        {
+            "Caixa": 2834,
+            "Peças": 2,
+            "Itens": [
+                "sku-1610"
+            ]
+        },
+        {
+            "Caixa": 2835,
+            "Peças": 2,
+            "Itens": [
+                "sku-1610"
+            ]
+        },
+        {
+            "Caixa": 2836,
+            "Peças": 1,
+            "Itens": [
+                "sku-1610"
+            ]
+        },
+        {
+            "Caixa": 2837,
+            "Peças": 30,
+            "Itens": [
+                "sku-1611",
+                "sku-1612",
+                "sku-0150"
+            ]
+        },
+        {
+            "Caixa": 2838,
+            "Peças": 22,
+            "Itens": [
+                "sku-1613",
+                "sku-1382"
+            ]
+        },
+        {
+            "Caixa": 2839,
+            "Peças": 17,
+            "Itens": [
+                "sku-1614",
+                "sku-1615"
+            ]
+        },
+        {
+            "Caixa": 2840,
+            "Peças": 20,
+            "Itens": [
+                "sku-1616"
+            ]
+        },
+        {
+            "Caixa": 2841,
+            "Peças": 38,
+            "Itens": [
+                "sku-1617",
+                "sku-1618",
+                "sku-1619"
+            ]
+        },
+        {
+            "Caixa": 2842,
+            "Peças": 34,
+            "Itens": [
+                "sku-1620",
+                "sku-1621"
+            ]
+        },
+        {
+            "Caixa": 2843,
+            "Peças": 59,
+            "Itens": [
+                "sku-1622",
+                "sku-1623",
+                "sku-1624"
+            ]
+        },
+        {
+            "Caixa": 2844,
+            "Peças": 10,
+            "Itens": [
+                "sku-0393"
+            ]
+        },
+        {
+            "Caixa": 2845,
+            "Peças": 12,
+            "Itens": [
+                "sku-1625"
+            ]
+        },
+        {
+            "Caixa": 2846,
+            "Peças": 27,
+            "Itens": [
+                "sku-1626"
+            ]
+        },
+        {
+            "Caixa": 2847,
+            "Peças": 15,
+            "Itens": [
+                "sku-1627",
+                "sku-1454"
+            ]
+        },
+        {
+            "Caixa": 2848,
+            "Peças": 25,
+            "Itens": [
+                "sku-1628",
+                "sku-1629"
+            ]
+        },
+        {
+            "Caixa": 2849,
+            "Peças": 15,
+            "Itens": [
+                "sku-1630",
+                "sku-1353"
+            ]
+        },
+        {
+            "Caixa": 2850,
+            "Peças": 6,
+            "Itens": [
+                "sku-1631"
+            ]
+        },
+        {
+            "Caixa": 2851,
+            "Peças": 20,
+            "Itens": [
+                "sku-1632",
+                "sku-1633"
+            ]
+        },
+        {
+            "Caixa": 2852,
+            "Peças": 18,
+            "Itens": [
+                "sku-1634",
+                "sku-1129"
+            ]
+        },
+        {
+            "Caixa": 2853,
+            "Peças": 34,
+            "Itens": [
+                "sku-1635",
+                "sku-1636",
+                "sku-1572"
+            ]
+        },
+        {
+            "Caixa": 2854,
+            "Peças": 30,
+            "Itens": [
+                "sku-1637",
+                "sku-1638"
+            ]
+        },
+        {
+            "Caixa": 2855,
+            "Peças": 20,
+            "Itens": [
+                "sku-1639"
+            ]
+        },
+        {
+            "Caixa": 2856,
+            "Peças": 15,
+            "Itens": [
+                "sku-1322",
+                "sku-1640"
+            ]
+        },
+        {
+            "Caixa": 2857,
+            "Peças": 31,
+            "Itens": [
+                "sku-1641",
+                "sku-1642"
+            ]
+        },
+        {
+            "Caixa": 2858,
+            "Peças": 45,
+            "Itens": [
+                "sku-1643",
+                "sku-1644",
+                "sku-1645"
+            ]
+        },
+        {
+            "Caixa": 2859,
+            "Peças": 6,
+            "Itens": [
+                "sku-1646"
+            ]
+        },
+        {
+            "Caixa": 2860,
+            "Peças": 8,
+            "Itens": [
+                "sku-1647"
+            ]
+        },
+        {
+            "Caixa": 2861,
+            "Peças": 36,
+            "Itens": [
+                "sku-1648",
+                "sku-1649"
+            ]
+        },
+        {
+            "Caixa": 2862,
+            "Peças": 14,
+            "Itens": [
+                "sku-0900"
+            ]
+        },
+        {
+            "Caixa": 2863,
+            "Peças": 20,
+            "Itens": [
+                "sku-1650"
+            ]
+        },
+        {
+            "Caixa": 2864,
+            "Peças": 6,
+            "Itens": [
+                "sku-1651"
+            ]
+        },
+        {
+            "Caixa": 2865,
+            "Peças": 10,
+            "Itens": [
+                "sku-1652"
+            ]
+        },
+        {
+            "Caixa": 2866,
+            "Peças": 34,
+            "Itens": [
+                "sku-1653",
+                "sku-1027"
+            ]
+        },
+        {
+            "Caixa": 2867,
+            "Peças": 48,
+            "Itens": [
+                "sku-1654",
+                "sku-1655",
+                "sku-1656",
+                "sku-1657"
+            ]
+        },
+        {
+            "Caixa": 2868,
+            "Peças": 13,
+            "Itens": [
+                "sku-1658",
+                "sku-1659"
+            ]
+        },
+        {
+            "Caixa": 2869,
+            "Peças": 45,
+            "Itens": [
+                "sku-1430",
+                "sku-1660",
+                "sku-1661"
+            ]
+        },
+        {
+            "Caixa": 2870,
+            "Peças": 44,
+            "Itens": [
+                "sku-1662",
+                "sku-1663",
+                "sku-1664"
+            ]
+        },
+        {
+            "Caixa": 2871,
+            "Peças": 16,
+            "Itens": [
+                "sku-1475"
+            ]
+        },
+        {
+            "Caixa": 2872,
+            "Peças": 58,
+            "Itens": [
+                "sku-1665",
+                "sku-1473",
+                "sku-1475",
+                "sku-1666"
+            ]
+        },
+        {
+            "Caixa": 2873,
+            "Peças": 8,
+            "Itens": [
+                "sku-1667"
+            ]
+        },
+        {
+            "Caixa": 2874,
+            "Peças": 16,
+            "Itens": [
+                "sku-1096",
+                "sku-0099"
+            ]
+        },
+        {
+            "Caixa": 2875,
+            "Peças": 5,
+            "Itens": [
+                "sku-1668"
+            ]
+        },
+        {
+            "Caixa": 2876,
+            "Peças": 6,
+            "Itens": [
+                "sku-0236"
+            ]
+        },
+        {
+            "Caixa": 2877,
+            "Peças": 23,
+            "Itens": [
+                "sku-1351",
+                "sku-0660"
+            ]
+        },
+        {
+            "Caixa": 2878,
+            "Peças": 2,
+            "Itens": [
+                "sku-1669"
+            ]
+        },
+        {
+            "Caixa": 2879,
+            "Peças": 22,
+            "Itens": [
+                "sku-1670",
+                "sku-0004"
+            ]
+        },
+        {
+            "Caixa": 2880,
+            "Peças": 12,
+            "Itens": [
+                "sku-1061"
+            ]
+        },
+        {
+            "Caixa": 2881,
+            "Peças": 14,
+            "Itens": [
+                "sku-1671"
+            ]
+        },
+        {
+            "Caixa": 2882,
+            "Peças": 34,
+            "Itens": [
+                "sku-1672",
+                "sku-1673"
+            ]
+        },
+        {
+            "Caixa": 2883,
+            "Peças": 17,
+            "Itens": [
+                "sku-1674",
+                "sku-1675"
+            ]
+        },
+        {
+            "Caixa": 2884,
+            "Peças": 5,
+            "Itens": [
+                "sku-1404"
+            ]
+        },
+        {
+            "Caixa": 2885,
+            "Peças": 5,
+            "Itens": [
+                "sku-1676",
+                "sku-0339"
+            ]
+        },
+        {
+            "Caixa": 2886,
+            "Peças": 20,
+            "Itens": [
+                "sku-1677"
+            ]
+        },
+        {
+            "Caixa": 2887,
+            "Peças": 21,
+            "Itens": [
+                "sku-1678",
+                "sku-0075"
+            ]
+        },
+        {
+            "Caixa": 2888,
+            "Peças": 12,
+            "Itens": [
+                "sku-1679"
+            ]
+        },
+        {
+            "Caixa": 2889,
+            "Peças": 6,
+            "Itens": [
+                "sku-1679"
+            ]
+        },
+        {
+            "Caixa": 2890,
+            "Peças": 38,
+            "Itens": [
+                "sku-1680",
+                "sku-1681",
+                "sku-1682"
+            ]
+        },
+        {
+            "Caixa": 2891,
+            "Peças": 10,
+            "Itens": [
+                "sku-1683"
+            ]
+        },
+        {
+            "Caixa": 2892,
+            "Peças": 10,
+            "Itens": [
+                "sku-1683"
+            ]
+        },
+        {
+            "Caixa": 2893,
+            "Peças": 27,
+            "Itens": [
+                "sku-1684",
+                "sku-0567"
+            ]
+        },
+        {
+            "Caixa": 2894,
+            "Peças": 45,
+            "Itens": [
+                "sku-1685",
+                "sku-1686",
+                "sku-1393",
+                "sku-1687"
+            ]
+        },
+        {
+            "Caixa": 2895,
+            "Peças": 10,
+            "Itens": [
+                "sku-0953"
+            ]
+        },
+        {
+            "Caixa": 2896,
+            "Peças": 10,
+            "Itens": [
+                "sku-0953"
+            ]
+        },
+        {
+            "Caixa": 2897,
+            "Peças": 8,
+            "Itens": [
+                "sku-1688"
+            ]
+        },
+        {
+            "Caixa": 2898,
+            "Peças": 25,
+            "Itens": [
+                "sku-1689",
+                "sku-1690"
+            ]
+        },
+        {
+            "Caixa": 2899,
+            "Peças": 2,
+            "Itens": [
+                "sku-1691"
+            ]
+        },
+        {
+            "Caixa": 2900,
+            "Peças": 1,
+            "Itens": [
+                "sku-0432"
+            ]
+        },
+        {
+            "Caixa": 2901,
+            "Peças": 6,
+            "Itens": [
+                "sku-1692"
+            ]
+        },
+        {
+            "Caixa": 2902,
+            "Peças": 15,
+            "Itens": [
+                "sku-1693"
+            ]
+        },
+        {
+            "Caixa": 2903,
+            "Peças": 18,
+            "Itens": [
+                "sku-1694",
+                "sku-0928"
+            ]
+        },
+        {
+            "Caixa": 2904,
+            "Peças": 6,
+            "Itens": [
+                "sku-0928"
+            ]
+        },
+        {
+            "Caixa": 2905,
+            "Peças": 20,
+            "Itens": [
+                "sku-1695"
+            ]
+        },
+        {
+            "Caixa": 2906,
+            "Peças": 5,
+            "Itens": [
+                "sku-0341"
+            ]
+        },
+        {
+            "Caixa": 2907,
+            "Peças": 8,
+            "Itens": [
+                "sku-0341",
+                "sku-1696"
+            ]
+        },
+        {
+            "Caixa": 2908,
+            "Peças": 8,
+            "Itens": [
+                "sku-1697"
+            ]
+        },
+        {
+            "Caixa": 2909,
+            "Peças": 20,
+            "Itens": [
+                "sku-1698"
+            ]
+        },
+        {
+            "Caixa": 2910,
+            "Peças": 52,
+            "Itens": [
+                "sku-1699",
+                "sku-0721",
+                "sku-1700",
+                "sku-1701"
+            ]
+        },
+        {
+            "Caixa": 2911,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2912,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2913,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2914,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2915,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2916,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2917,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2918,
+            "Peças": 2,
+            "Itens": [
+                "sku-1702"
+            ]
+        },
+        {
+            "Caixa": 2919,
+            "Peças": 16,
+            "Itens": [
+                "sku-1703",
+                "sku-1704"
+            ]
+        },
+        {
+            "Caixa": 2920,
+            "Peças": 8,
+            "Itens": [
+                "sku-1705"
+            ]
+        },
+        {
+            "Caixa": 2921,
+            "Peças": 41,
+            "Itens": [
+                "sku-1706",
+                "sku-1453",
+                "sku-1707"
+            ]
+        },
+        {
+            "Caixa": 2922,
+            "Peças": 41,
+            "Itens": [
+                "sku-1708",
+                "sku-1709"
+            ]
+        },
+        {
+            "Caixa": 2923,
+            "Peças": 20,
+            "Itens": [
+                "sku-1710"
+            ]
+        },
+        {
+            "Caixa": 2924,
+            "Peças": 14,
+            "Itens": [
+                "sku-1711"
+            ]
+        },
+        {
+            "Caixa": 2925,
+            "Peças": 3,
+            "Itens": [
+                "sku-1712"
+            ]
+        },
+        {
+            "Caixa": 2926,
+            "Peças": 3,
+            "Itens": [
+                "sku-1713"
+            ]
+        },
+        {
+            "Caixa": 2927,
+            "Peças": 23,
+            "Itens": [
+                "sku-1459",
+                "sku-0918",
+                "sku-1714"
+            ]
+        },
+        {
+            "Caixa": 2928,
+            "Peças": 4,
+            "Itens": [
+                "sku-0684"
+            ]
+        },
+        {
+            "Caixa": 2929,
+            "Peças": 16,
+            "Itens": [
+                "sku-1420"
+            ]
+        },
+        {
+            "Caixa": 2930,
+            "Peças": 8,
+            "Itens": [
+                "sku-1420"
+            ]
+        },
+        {
+            "Caixa": 2931,
+            "Peças": 41,
+            "Itens": [
+                "sku-0042",
+                "sku-1715",
+                "sku-1716",
+                "sku-1717"
+            ]
+        },
+        {
+            "Caixa": 2932,
+            "Peças": 20,
+            "Itens": [
+                "sku-1718",
+                "sku-0974"
+            ]
+        },
+        {
+            "Caixa": 2933,
+            "Peças": 8,
+            "Itens": [
+                "sku-1719"
+            ]
+        },
+        {
+            "Caixa": 2934,
+            "Peças": 40,
+            "Itens": [
+                "sku-0581",
+                "sku-0160",
+                "sku-1720"
+            ]
+        },
+        {
+            "Caixa": 2935,
+            "Peças": 18,
+            "Itens": [
+                "sku-1721"
+            ]
+        },
+        {
+            "Caixa": 2936,
+            "Peças": 5,
+            "Itens": [
+                "sku-0489"
+            ]
+        },
+        {
+            "Caixa": 2937,
+            "Peças": 20,
+            "Itens": [
+                "sku-0489"
+            ]
+        },
+        {
+            "Caixa": 2938,
+            "Peças": 16,
+            "Itens": [
+                "sku-1722"
+            ]
+        },
+        {
+            "Caixa": 2939,
+            "Peças": 21,
+            "Itens": [
+                "sku-1723"
+            ]
+        },
+        {
+            "Caixa": 2940,
+            "Peças": 14,
+            "Itens": [
+                "sku-1724",
+                "sku-1725"
+            ]
+        },
+        {
+            "Caixa": 2941,
+            "Peças": 18,
+            "Itens": [
+                "sku-1726"
+            ]
+        },
+        {
+            "Caixa": 2942,
+            "Peças": 38,
+            "Itens": [
+                "sku-1727",
+                "sku-1728"
+            ]
+        },
+        {
+            "Caixa": 2943,
+            "Peças": 31,
+            "Itens": [
+                "sku-1729",
+                "sku-1730"
+            ]
+        },
+        {
+            "Caixa": 2944,
+            "Peças": 16,
+            "Itens": [
+                "sku-1084"
+            ]
+        },
+        {
+            "Caixa": 2945,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2946,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2947,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2948,
+            "Peças": 3,
+            "Itens": [
+                "sku-1064"
+            ]
+        },
+        {
+            "Caixa": 2949,
+            "Peças": 7,
+            "Itens": [
+                "sku-1064",
+                "sku-1731"
+            ]
+        },
+        {
+            "Caixa": 2950,
+            "Peças": 7,
+            "Itens": [
+                "sku-1064",
+                "sku-1731"
+            ]
+        },
+        {
+            "Caixa": 2951,
+            "Peças": 7,
+            "Itens": [
+                "sku-1064",
+                "sku-1731"
+            ]
+        },
+        {
+            "Caixa": 2952,
+            "Peças": 3,
+            "Itens": [
+                "sku-1732"
+            ]
+        },
+        {
+            "Caixa": 2953,
+            "Peças": 27,
+            "Itens": [
+                "sku-1733",
+                "sku-1734"
+            ]
+        },
+        {
+            "Caixa": 2954,
+            "Peças": 4,
+            "Itens": [
+                "sku-1735"
+            ]
+        },
+        {
+            "Caixa": 2955,
+            "Peças": 3,
+            "Itens": [
+                "sku-1736"
+            ]
+        },
+        {
+            "Caixa": 2956,
+            "Peças": 7,
+            "Itens": [
+                "sku-0406"
+            ]
+        },
+        {
+            "Caixa": 2957,
+            "Peças": 7,
+            "Itens": [
+                "sku-1737"
+            ]
+        },
+        {
+            "Caixa": 2958,
+            "Peças": 7,
+            "Itens": [
+                "sku-1737"
+            ]
+        },
+        {
+            "Caixa": 2959,
+            "Peças": 37,
+            "Itens": [
+                "sku-1738",
+                "sku-1739"
+            ]
+        },
+        {
+            "Caixa": 2960,
+            "Peças": 20,
+            "Itens": [
+                "sku-1740"
+            ]
+        },
+        {
+            "Caixa": 2961,
+            "Peças": 22,
+            "Itens": [
+                "sku-1741",
+                "sku-1742"
+            ]
+        },
+        {
+            "Caixa": 2962,
+            "Peças": 2,
+            "Itens": [
+                "sku-1743"
+            ]
+        },
+        {
+            "Caixa": 2963,
+            "Peças": 14,
+            "Itens": [
+                "sku-1744",
+                "sku-1745"
+            ]
+        },
+        {
+            "Caixa": 2964,
+            "Peças": 6,
+            "Itens": [
+                "sku-1746"
+            ]
+        },
+        {
+            "Caixa": 2965,
+            "Peças": 6,
+            "Itens": [
+                "sku-1746"
+            ]
+        },
+        {
+            "Caixa": 2966,
+            "Peças": 21,
+            "Itens": [
+                "sku-1365",
+                "sku-1747"
+            ]
+        },
+        {
+            "Caixa": 2967,
+            "Peças": 28,
+            "Itens": [
+                "sku-1748",
+                "sku-1749",
+                "sku-1750"
+            ]
+        },
+        {
+            "Caixa": 2968,
+            "Peças": 16,
+            "Itens": [
+                "sku-1751",
+                "sku-1219"
+            ]
+        },
+        {
+            "Caixa": 2969,
+            "Peças": 10,
+            "Itens": [
+                "sku-1752"
+            ]
+        },
+        {
+            "Caixa": 2970,
+            "Peças": 10,
+            "Itens": [
+                "sku-1752"
+            ]
+        },
+        {
+            "Caixa": 2971,
+            "Peças": 15,
+            "Itens": [
+                "sku-1753"
+            ]
+        },
+        {
+            "Caixa": 2972,
+            "Peças": 27,
+            "Itens": [
+                "sku-1141",
+                "sku-1754"
+            ]
+        },
+        {
+            "Caixa": 2973,
+            "Peças": 20,
+            "Itens": [
+                "sku-1755"
+            ]
+        },
+        {
+            "Caixa": 2974,
+            "Peças": 6,
+            "Itens": [
+                "sku-1756"
+            ]
+        },
+        {
+            "Caixa": 2975,
+            "Peças": 31,
+            "Itens": [
+                "sku-1757",
+                "sku-1758"
+            ]
+        },
+        {
+            "Caixa": 2976,
+            "Peças": 9,
+            "Itens": [
+                "sku-1759"
+            ]
+        },
+        {
+            "Caixa": 2977,
+            "Peças": 36,
+            "Itens": [
+                "sku-1760",
+                "sku-1761"
+            ]
+        },
+        {
+            "Caixa": 2978,
+            "Peças": 38,
+            "Itens": [
+                "sku-1509",
+                "sku-0285",
+                "sku-1762",
+                "sku-1763"
+            ]
+        },
+        {
+            "Caixa": 2979,
+            "Peças": 10,
+            "Itens": [
+                "sku-1764"
+            ]
+        },
+        {
+            "Caixa": 2980,
+            "Peças": 7,
+            "Itens": [
+                "sku-1765"
+            ]
+        },
+        {
+            "Caixa": 2981,
+            "Peças": 18,
+            "Itens": [
+                "sku-1766"
+            ]
+        },
+        {
+            "Caixa": 2982,
+            "Peças": 22,
+            "Itens": [
+                "sku-1767",
+                "sku-1768"
+            ]
+        },
+        {
+            "Caixa": 2983,
+            "Peças": 18,
+            "Itens": [
+                "sku-1769"
+            ]
+        },
+        {
+            "Caixa": 2984,
+            "Peças": 9,
+            "Itens": [
+                "sku-1769"
+            ]
+        },
+        {
+            "Caixa": 2985,
+            "Peças": 21,
+            "Itens": [
+                "sku-0308",
+                "sku-1770"
+            ]
+        },
+        {
+            "Caixa": 2986,
+            "Peças": 20,
+            "Itens": [
+                "sku-1771"
+            ]
+        },
+        {
+            "Caixa": 2987,
+            "Peças": 17,
+            "Itens": [
+                "sku-1619",
+                "sku-1772"
+            ]
+        },
+        {
+            "Caixa": 2988,
+            "Peças": 16,
+            "Itens": [
+                "sku-1773"
+            ]
+        },
+        {
+            "Caixa": 2989,
+            "Peças": 8,
+            "Itens": [
+                "sku-1773"
+            ]
+        },
+        {
+            "Caixa": 2990,
+            "Peças": 8,
+            "Itens": [
+                "sku-1745"
+            ]
+        },
+        {
+            "Caixa": 2991,
+            "Peças": 45,
+            "Itens": [
+                "sku-1774",
+                "sku-1775",
+                "sku-1776"
+            ]
+        },
+        {
+            "Caixa": 2992,
+            "Peças": 2,
+            "Itens": [
+                "sku-1256"
+            ]
+        },
+        {
+            "Caixa": 2993,
+            "Peças": 9,
+            "Itens": [
+                "sku-1777"
+            ]
+        },
+        {
+            "Caixa": 2994,
+            "Peças": 18,
+            "Itens": [
+                "sku-1778"
+            ]
+        },
+        {
+            "Caixa": 2995,
+            "Peças": 4,
+            "Itens": [
+                "sku-1779"
+            ]
+        },
+        {
+            "Caixa": 2996,
+            "Peças": 4,
+            "Itens": [
+                "sku-1779"
+            ]
+        },
+        {
+            "Caixa": 2997,
+            "Peças": 4,
+            "Itens": [
+                "sku-1779"
+            ]
+        },
+        {
+            "Caixa": 2998,
+            "Peças": 14,
+            "Itens": [
+                "sku-1573"
+            ]
+        },
+        {
+            "Caixa": 2999,
+            "Peças": 10,
+            "Itens": [
+                "sku-1780"
+            ]
+        },
+        {
+            "Caixa": 3000,
+            "Peças": 10,
+            "Itens": [
+                "sku-1209"
+            ]
+        },
+        {
+            "Caixa": 3001,
+            "Peças": 34,
+            "Itens": [
+                "sku-1216",
+                "sku-1781"
+            ]
+        },
+        {
+            "Caixa": 3002,
+            "Peças": 12,
+            "Itens": [
+                "sku-0098"
+            ]
+        },
+        {
+            "Caixa": 3003,
+            "Peças": 3,
+            "Itens": [
+                "sku-0098"
+            ]
+        },
+        {
+            "Caixa": 3004,
+            "Peças": 26,
+            "Itens": [
+                "sku-1782",
+                "sku-0111"
+            ]
+        },
+        {
+            "Caixa": 3005,
+            "Peças": 12,
+            "Itens": [
+                "sku-0335"
+            ]
+        },
+        {
+            "Caixa": 3006,
+            "Peças": 18,
+            "Itens": [
+                "sku-1035"
+            ]
+        },
+        {
+            "Caixa": 3007,
+            "Peças": 7,
+            "Itens": [
+                "sku-1243"
+            ]
+        },
+        {
+            "Caixa": 3008,
+            "Peças": 6,
+            "Itens": [
+                "sku-1243"
+            ]
+        },
+        {
+            "Caixa": 3009,
+            "Peças": 9,
+            "Itens": [
+                "sku-1772"
+            ]
+        },
+        {
+            "Caixa": 3010,
+            "Peças": 1,
+            "Itens": [
+                "sku-1783"
+            ]
+        },
+        {
+            "Caixa": 3011,
+            "Peças": 14,
+            "Itens": [
+                "sku-1784",
+                "sku-0352"
+            ]
+        },
+        {
+            "Caixa": 3012,
+            "Peças": 18,
+            "Itens": [
+                "sku-1785"
+            ]
+        },
+        {
+            "Caixa": 3013,
+            "Peças": 20,
+            "Itens": [
+                "sku-1786"
+            ]
+        },
+        {
+            "Caixa": 3014,
+            "Peças": 16,
+            "Itens": [
+                "sku-1787"
+            ]
+        },
+        {
+            "Caixa": 3015,
+            "Peças": 8,
+            "Itens": [
+                "sku-1788"
+            ]
+        },
+        {
+            "Caixa": 3016,
+            "Peças": 5,
+            "Itens": [
+                "sku-0222",
+                "sku-1789"
+            ]
+        },
+        {
+            "Caixa": 3017,
+            "Peças": 27,
+            "Itens": [
+                "sku-1790",
+                "sku-1791"
+            ]
+        },
+        {
+            "Caixa": 3018,
+            "Peças": 28,
+            "Itens": [
+                "sku-1792",
+                "sku-1793"
+            ]
+        },
+        {
+            "Caixa": 3019,
+            "Peças": 6,
+            "Itens": [
+                "sku-1794"
+            ]
+        },
+        {
+            "Caixa": 3020,
+            "Peças": 29,
+            "Itens": [
+                "sku-1795",
+                "sku-1796"
+            ]
+        },
+        {
+            "Caixa": 3021,
+            "Peças": 18,
+            "Itens": [
+                "sku-1797",
+                "sku-0645"
+            ]
+        },
+        {
+            "Caixa": 3022,
+            "Peças": 31,
+            "Itens": [
+                "sku-1798",
+                "sku-1799"
+            ]
+        },
+        {
+            "Caixa": 3023,
+            "Peças": 10,
+            "Itens": [
+                "sku-1800"
+            ]
+        },
+        {
+            "Caixa": 3024,
+            "Peças": 14,
+            "Itens": [
+                "sku-0623",
+                "sku-1801"
+            ]
+        },
+        {
+            "Caixa": 3025,
+            "Peças": 9,
+            "Itens": [
+                "sku-0762"
+            ]
+        },
+        {
+            "Caixa": 3026,
+            "Peças": 13,
+            "Itens": [
+                "sku-0989",
+                "sku-1802"
+            ]
+        },
+        {
+            "Caixa": 3027,
+            "Peças": 13,
+            "Itens": [
+                "sku-0989",
+                "sku-1802"
+            ]
+        },
+        {
+            "Caixa": 3028,
+            "Peças": 21,
+            "Itens": [
+                "sku-1803"
+            ]
+        },
+        {
+            "Caixa": 3029,
+            "Peças": 16,
+            "Itens": [
+                "sku-1145"
+            ]
+        },
+        {
+            "Caixa": 3030,
+            "Peças": 22,
+            "Itens": [
+                "sku-1804",
+                "sku-1805"
+            ]
+        },
+        {
+            "Caixa": 3031,
+            "Peças": 8,
+            "Itens": [
+                "sku-1312"
+            ]
+        },
+        {
+            "Caixa": 3032,
+            "Peças": 25,
+            "Itens": [
+                "sku-1806",
+                "sku-1807"
+            ]
+        },
+        {
+            "Caixa": 3033,
+            "Peças": 16,
+            "Itens": [
+                "sku-1741",
+                "sku-1808"
+            ]
+        },
+        {
+            "Caixa": 3034,
+            "Peças": 23,
+            "Itens": [
+                "sku-1809",
+                "sku-1810"
+            ]
+        },
+        {
+            "Caixa": 3035,
+            "Peças": 7,
+            "Itens": [
+                "sku-1811"
+            ]
+        },
+        {
+            "Caixa": 3036,
+            "Peças": 7,
+            "Itens": [
+                "sku-1811"
+            ]
+        },
+        {
+            "Caixa": 3037,
+            "Peças": 24,
+            "Itens": [
+                "sku-1812"
+            ]
+        },
+        {
+            "Caixa": 3038,
+            "Peças": 18,
+            "Itens": [
+                "sku-1638"
+            ]
+        },
+        {
+            "Caixa": 3039,
+            "Peças": 11,
+            "Itens": [
+                "sku-1813"
+            ]
+        },
+        {
+            "Caixa": 3040,
+            "Peças": 9,
+            "Itens": [
+                "sku-0908"
+            ]
+        },
+        {
+            "Caixa": 3041,
+            "Peças": 18,
+            "Itens": [
+                "sku-1158"
+            ]
+        },
+        {
+            "Caixa": 3042,
+            "Peças": 12,
+            "Itens": [
+                "sku-0540"
+            ]
+        },
+        {
+            "Caixa": 3043,
+            "Peças": 16,
+            "Itens": [
+                "sku-1649"
+            ]
+        },
+        {
+            "Caixa": 3044,
+            "Peças": 18,
+            "Itens": [
+                "sku-1814"
+            ]
+        },
+        {
+            "Caixa": 3045,
+            "Peças": 18,
+            "Itens": [
+                "sku-0278",
+                "sku-1815"
+            ]
+        },
+        {
+            "Caixa": 3046,
+            "Peças": 34,
+            "Itens": [
+                "sku-1816",
+                "sku-1817",
+                "sku-1143"
+            ]
+        },
+        {
+            "Caixa": 3047,
+            "Peças": 6,
+            "Itens": [
+                "sku-1143"
+            ]
+        },
+        {
+            "Caixa": 3048,
+            "Peças": 8,
+            "Itens": [
+                "sku-1818"
+            ]
+        },
+        {
+            "Caixa": 3049,
+            "Peças": 16,
+            "Itens": [
+                "sku-1674"
+            ]
+        },
+        {
+            "Caixa": 3050,
+            "Peças": 7,
+            "Itens": [
+                "sku-0033"
+            ]
+        },
+        {
+            "Caixa": 3051,
+            "Peças": 21,
+            "Itens": [
+                "sku-1819",
+                "sku-1820"
+            ]
+        },
+        {
+            "Caixa": 3052,
+            "Peças": 4,
+            "Itens": [
+                "sku-0546"
+            ]
+        },
+        {
+            "Caixa": 3053,
+            "Peças": 4,
+            "Itens": [
+                "sku-0546"
+            ]
+        },
+        {
+            "Caixa": 3054,
+            "Peças": 4,
+            "Itens": [
+                "sku-0546"
+            ]
+        },
+        {
+            "Caixa": 3055,
+            "Peças": 2,
+            "Itens": [
+                "sku-0546"
+            ]
+        },
+        {
+            "Caixa": 3056,
+            "Peças": 2,
+            "Itens": [
+                "sku-1821"
+            ]
+        },
+        {
+            "Caixa": 3057,
+            "Peças": 10,
+            "Itens": [
+                "sku-1355"
+            ]
+        },
+        {
+            "Caixa": 3058,
+            "Peças": 20,
+            "Itens": [
+                "sku-1822"
+            ]
+        },
+        {
+            "Caixa": 3059,
+            "Peças": 1,
+            "Itens": [
+                "sku-1563"
+            ]
+        },
+        {
+            "Caixa": 3060,
+            "Peças": 9,
+            "Itens": [
+                "sku-0437"
+            ]
+        },
+        {
+            "Caixa": 3061,
+            "Peças": 10,
+            "Itens": [
+                "sku-1823"
+            ]
+        },
+        {
+            "Caixa": 3062,
+            "Peças": 10,
+            "Itens": [
+                "sku-1823"
+            ]
+        },
+        {
+            "Caixa": 3063,
+            "Peças": 31,
+            "Itens": [
+                "sku-1824",
+                "sku-1825",
+                "sku-1826"
+            ]
+        },
+        {
+            "Caixa": 3064,
+            "Peças": 24,
+            "Itens": [
+                "sku-1827"
+            ]
+        },
+        {
+            "Caixa": 3065,
+            "Peças": 7,
+            "Itens": [
+                "sku-1696"
+            ]
+        },
+        {
+            "Caixa": 3066,
+            "Peças": 7,
+            "Itens": [
+                "sku-1758"
+            ]
+        },
+        {
+            "Caixa": 3067,
+            "Peças": 10,
+            "Itens": [
+                "sku-1828"
+            ]
+        },
+        {
+            "Caixa": 3068,
+            "Peças": 10,
+            "Itens": [
+                "sku-1828"
+            ]
+        },
+        {
+            "Caixa": 3069,
+            "Peças": 5,
+            "Itens": [
+                "sku-0111"
+            ]
+        },
+        {
+            "Caixa": 3070,
+            "Peças": 6,
+            "Itens": [
+                "sku-0947"
+            ]
+        },
+        {
+            "Caixa": 3071,
+            "Peças": 6,
+            "Itens": [
+                "sku-1829"
+            ]
+        },
+        {
+            "Caixa": 3072,
+            "Peças": 8,
+            "Itens": [
+                "sku-1830"
+            ]
+        },
+        {
+            "Caixa": 3073,
+            "Peças": 8,
+            "Itens": [
+                "sku-1830"
+            ]
+        },
+        {
+            "Caixa": 3074,
+            "Peças": 8,
+            "Itens": [
+                "sku-1830"
+            ]
+        },
+        {
+            "Caixa": 3075,
+            "Peças": 8,
+            "Itens": [
+                "sku-1831"
+            ]
+        },
+        {
+            "Caixa": 3076,
+            "Peças": 20,
+            "Itens": [
+                "sku-1832"
+            ]
+        },
+        {
+            "Caixa": 3077,
+            "Peças": 21,
+            "Itens": [
+                "sku-1187",
+                "sku-1833"
+            ]
+        },
+        {
+            "Caixa": 3078,
+            "Peças": 18,
+            "Itens": [
+                "sku-0976"
+            ]
+        },
+        {
+            "Caixa": 3079,
+            "Peças": 53,
+            "Itens": [
+                "sku-0193",
+                "sku-1834",
+                "sku-1835",
+                "sku-1836"
+            ]
+        },
+        {
+            "Caixa": 3080,
+            "Peças": 8,
+            "Itens": [
+                "sku-1837"
+            ]
+        },
+        {
+            "Caixa": 3081,
+            "Peças": 29,
+            "Itens": [
+                "sku-1838",
+                "sku-1839"
+            ]
+        },
+        {
+            "Caixa": 3082,
+            "Peças": 16,
+            "Itens": [
+                "sku-1840"
+            ]
+        },
+        {
+            "Caixa": 3083,
+            "Peças": 27,
+            "Itens": [
+                "sku-1825"
+            ]
+        },
+        {
+            "Caixa": 3084,
+            "Peças": 6,
+            "Itens": [
+                "sku-1588"
+            ]
+        },
+        {
+            "Caixa": 3085,
+            "Peças": 10,
+            "Itens": [
+                "sku-1841"
+            ]
+        },
+        {
+            "Caixa": 3086,
+            "Peças": 8,
+            "Itens": [
+                "sku-1842"
+            ]
+        },
+        {
+            "Caixa": 3087,
+            "Peças": 31,
+            "Itens": [
+                "sku-1843",
+                "sku-1844"
+            ]
+        },
+        {
+            "Caixa": 3088,
+            "Peças": 11,
+            "Itens": [
+                "sku-1662"
+            ]
+        },
+        {
+            "Caixa": 3089,
+            "Peças": 21,
+            "Itens": [
+                "sku-1543"
+            ]
+        },
+        {
+            "Caixa": 3090,
+            "Peças": 9,
+            "Itens": [
+                "sku-1845"
+            ]
+        },
+        {
+            "Caixa": 3091,
+            "Peças": 14,
+            "Itens": [
+                "sku-0765"
+            ]
+        },
+        {
+            "Caixa": 3092,
+            "Peças": 12,
+            "Itens": [
+                "sku-0852"
+            ]
+        },
+        {
+            "Caixa": 3093,
+            "Peças": 20,
+            "Itens": [
+                "sku-1846"
+            ]
+        },
+        {
+            "Caixa": 3094,
+            "Peças": 18,
+            "Itens": [
+                "sku-1847",
+                "sku-1127"
+            ]
+        },
+        {
+            "Caixa": 3095,
+            "Peças": 14,
+            "Itens": [
+                "sku-1087"
+            ]
+        },
+        {
+            "Caixa": 3096,
+            "Peças": 8,
+            "Itens": [
+                "sku-1848"
+            ]
+        },
+        {
+            "Caixa": 3097,
+            "Peças": 3,
+            "Itens": [
+                "sku-1849"
+            ]
+        },
+        {
+            "Caixa": 3098,
+            "Peças": 3,
+            "Itens": [
+                "sku-1849"
+            ]
+        },
+        {
+            "Caixa": 3099,
+            "Peças": 3,
+            "Itens": [
+                "sku-1849"
+            ]
+        },
+        {
+            "Caixa": 3100,
+            "Peças": 3,
+            "Itens": [
+                "sku-1849"
+            ]
+        },
+        {
+            "Caixa": 3101,
+            "Peças": 3,
+            "Itens": [
+                "sku-1849"
+            ]
+        },
+        {
+            "Caixa": 3102,
+            "Peças": 20,
+            "Itens": [
+                "sku-1850"
+            ]
+        },
+        {
+            "Caixa": 3103,
+            "Peças": 9,
+            "Itens": [
+                "sku-1851"
+            ]
+        },
+        {
+            "Caixa": 3104,
+            "Peças": 14,
+            "Itens": [
+                "sku-1852"
+            ]
+        },
+        {
+            "Caixa": 3105,
+            "Peças": 7,
+            "Itens": [
+                "sku-1853"
+            ]
+        },
+        {
+            "Caixa": 3106,
+            "Peças": 24,
+            "Itens": [
+                "sku-1854"
+            ]
+        },
+        {
+            "Caixa": 3107,
+            "Peças": 2,
+            "Itens": [
+                "sku-0416"
+            ]
+        },
+        {
+            "Caixa": 3108,
+            "Peças": 16,
+            "Itens": [
+                "sku-1134"
+            ]
+        },
+        {
+            "Caixa": 3109,
+            "Peças": 18,
+            "Itens": [
+                "sku-1855"
+            ]
+        },
+        {
+            "Caixa": 3110,
+            "Peças": 3,
+            "Itens": [
+                "sku-0555"
+            ]
+        },
+        {
+            "Caixa": 3111,
+            "Peças": 12,
+            "Itens": [
+                "sku-1856"
+            ]
+        },
+        {
+            "Caixa": 3112,
+            "Peças": 6,
+            "Itens": [
+                "sku-1856"
+            ]
+        },
+        {
+            "Caixa": 3113,
+            "Peças": 15,
+            "Itens": [
+                "sku-1533",
+                "sku-0413"
+            ]
+        },
+        {
+            "Caixa": 3114,
+            "Peças": 10,
+            "Itens": [
+                "sku-0674"
+            ]
+        },
+        {
+            "Caixa": 3115,
+            "Peças": 21,
+            "Itens": [
+                "sku-1857"
+            ]
+        },
+        {
+            "Caixa": 3116,
+            "Peças": 33,
+            "Itens": [
+                "sku-1858",
+                "sku-1859"
+            ]
+        },
+        {
+            "Caixa": 3117,
+            "Peças": 4,
+            "Itens": [
+                "sku-0136"
+            ]
+        },
+        {
+            "Caixa": 3118,
+            "Peças": 20,
+            "Itens": [
+                "sku-1860"
+            ]
+        },
+        {
+            "Caixa": 3119,
+            "Peças": 15,
+            "Itens": [
+                "sku-0381"
+            ]
+        },
+        {
+            "Caixa": 3120,
+            "Peças": 9,
+            "Itens": [
+                "sku-1606"
+            ]
+        },
+        {
+            "Caixa": 3121,
+            "Peças": 16,
+            "Itens": [
+                "sku-1861"
+            ]
+        },
+        {
+            "Caixa": 3122,
+            "Peças": 16,
+            "Itens": [
+                "sku-0661"
+            ]
+        },
+        {
+            "Caixa": 3123,
+            "Peças": 10,
+            "Itens": [
+                "sku-1862"
+            ]
+        },
+        {
+            "Caixa": 3124,
+            "Peças": 10,
+            "Itens": [
+                "sku-1863"
+            ]
+        },
+        {
+            "Caixa": 3125,
+            "Peças": 9,
+            "Itens": [
+                "sku-1864"
+            ]
+        },
+        {
+            "Caixa": 3126,
+            "Peças": 4,
+            "Itens": [
+                "sku-1816"
+            ]
+        },
+        {
+            "Caixa": 3127,
+            "Peças": 21,
+            "Itens": [
+                "sku-1865",
+                "sku-0085"
+            ]
+        },
+        {
+            "Caixa": 3128,
+            "Peças": 15,
+            "Itens": [
+                "sku-1866"
+            ]
+        },
+        {
+            "Caixa": 3129,
+            "Peças": 12,
+            "Itens": [
+                "sku-1867"
+            ]
+        },
+        {
+            "Caixa": 3130,
+            "Peças": 12,
+            "Itens": [
+                "sku-1867"
+            ]
+        },
+        {
+            "Caixa": 3131,
+            "Peças": 10,
+            "Itens": [
+                "sku-0864"
+            ]
+        },
+        {
+            "Caixa": 3132,
+            "Peças": 3,
+            "Itens": [
+                "sku-0101"
+            ]
+        },
+        {
+            "Caixa": 3133,
+            "Peças": 7,
+            "Itens": [
+                "sku-1868"
+            ]
+        },
+        {
+            "Caixa": 3134,
+            "Peças": 16,
+            "Itens": [
+                "sku-1869"
+            ]
+        },
+        {
+            "Caixa": 3135,
+            "Peças": 12,
+            "Itens": [
+                "sku-1870"
+            ]
+        },
+        {
+            "Caixa": 3136,
+            "Peças": 15,
+            "Itens": [
+                "sku-1871"
+            ]
+        },
+        {
+            "Caixa": 3137,
+            "Peças": 18,
+            "Itens": [
+                "sku-1872"
+            ]
+        },
+        {
+            "Caixa": 3138,
+            "Peças": 9,
+            "Itens": [
+                "sku-1873"
+            ]
+        },
+        {
+            "Caixa": 3139,
+            "Peças": 11,
+            "Itens": [
+                "sku-1473"
+            ]
+        },
+        {
+            "Caixa": 3140,
+            "Peças": 10,
+            "Itens": [
+                "sku-1874"
+            ]
+        },
+        {
+            "Caixa": 3141,
+            "Peças": 5,
+            "Itens": [
+                "sku-1874"
+            ]
+        },
+        {
+            "Caixa": 3142,
+            "Peças": 16,
+            "Itens": [
+                "sku-1875"
+            ]
+        },
+        {
+            "Caixa": 3143,
+            "Peças": 8,
+            "Itens": [
+                "sku-0682"
+            ]
+        },
+        {
+            "Caixa": 3144,
+            "Peças": 8,
+            "Itens": [
+                "sku-1876"
+            ]
+        },
+        {
+            "Caixa": 3145,
+            "Peças": 18,
+            "Itens": [
+                "sku-1877"
+            ]
+        },
+        {
+            "Caixa": 3146,
+            "Peças": 8,
+            "Itens": [
+                "sku-1878"
+            ]
+        },
+        {
+            "Caixa": 3147,
+            "Peças": 12,
+            "Itens": [
+                "sku-1879"
+            ]
+        },
+        {
+            "Caixa": 3148,
+            "Peças": 5,
+            "Itens": [
+                "sku-1880"
+            ]
+        },
+        {
+            "Caixa": 3149,
+            "Peças": 8,
+            "Itens": [
+                "sku-1881"
+            ]
+        },
+        {
+            "Caixa": 3150,
+            "Peças": 4,
+            "Itens": [
+                "sku-1882"
+            ]
+        }
+    ],
+    "Capacidade de produção por onda": 2000,
+    "Quantidade necessária de ondas": 14
+}
